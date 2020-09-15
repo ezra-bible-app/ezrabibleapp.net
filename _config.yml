@@ -2,3 +2,6 @@ theme: jekyll-theme-slate
 title: Ezra Project
 description: A user-friendly, cross-platform bible study tool
 show_downloads: true
+github:
+  win_url: https://github.com/tobias-klein/ezra-project/releases/download/0.14.0/ezra-project_win32_setup-0.14.0.exe
+  mac_url: https://github.com/tobias-klein/ezra-project/releases/download/0.14.0/ezra-project_mac_0.14.0_x64.dmg

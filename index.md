@@ -3,6 +3,7 @@
   <a href="#features">Features</a> •
   <a href="#upcoming-features">Upcoming Features</a> •
   <a href="#installation">Installation</a>
+  <a href="#development">Development/Feedback</a>
 </p>
 
 *"For Ezra had set his heart to study the Law of the LORD,<br/>
@@ -14,6 +15,7 @@ Ezra Project is a user-friendly, cross-platform bible study tool focussing on to
 </img>
 
 <a name="usage--howto--screenshots"></a>
+
 ## Usage / Howto / Screenshots
 
 Watch [this video](https://www.youtube.com/watch?v=b8gScfa0MqM) to understand how to use Ezra Project.
@@ -23,6 +25,7 @@ You can also browse through some screenshots and photos on a separate [gallery p
 [gallery]: https://github.com/tobias-klein/ezra-project/blob/master/GALLERY.md
 
 <a name="features"></a>
+
 ## Features
 
 Ezra Project comes with the following functionality.
@@ -76,6 +79,7 @@ Ezra Project comes with the following functionality.
   * English, German, Dutch, French
 
 <a name="upcoming-features"></a>
+
 ## Upcoming Features
 
 Ezra Project is currently on a bi-monthly release schedule. The next release [0.15.0](https://github.com/tobias-klein/ezra-project/projects/2) is planned for October 2020 with the following new features:
@@ -87,6 +91,7 @@ Ezra Project is currently on a bi-monthly release schedule. The next release [0.
 [i95]: https://github.com/tobias-klein/ezra-project/issues/95
 
 <a name="installation"></a>
+
 ## Installation
 The latest installation packages for Windows, Linux and macOS can be found on [this page][latest]. Specific install instructions are below.
 
@@ -104,3 +109,12 @@ Install Ezra Project by downloading a package for your distribution. After insta
 Install Ezra Project by downloading the DMG file. After opening the DMG file from Finder you can either just test-run Ezra Project (double-click the icon), or drag-and-drop the icon to the Applications folder to install it. Note, that macOS will warn you that this is an app downloaded from the internet. That message must be acknowledged before you can run the application.
 
 [latest]: https://github.com/tobias-klein/ezra-project/releases/latest
+
+<a name="development"></a>
+
+## Development
+Have a look at [Ezra Project's GitHub repository](https://github.com/tobias-klein/ezra-project) to find out more about its development.
+
+## Feedback
+To give feedback (bug reports, feature requests) please use the Github issue system.
+Click [here](https://github.com/tobias-klein/ezra-project/issues/new) to file a new Issue for Ezra Project.

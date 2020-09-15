@@ -1,30 +1,28 @@
-layout: page
-title: "Screenshots and photos of Ezra Project"
-permalink: /gallery/
+## Screenshot Gallery
 
 This page shows screenshots and photos of how Ezra Project looks for different use cases.
 
-## Standard layout
+### Standard layout
 
 ![Ezra Project 0.11.0](https://raw.githubusercontent.com/tobias-klein/ezra-project/master/screenshots/ezra_project_0_11_0.png "Ezra Project 0.11.0")
 
-## Compact layout in night mode
+### Compact layout in night mode
 
 ![Ezra Project 0.13.0 Night Mode](https://raw.githubusercontent.com/tobias-klein/ezra-project/master/screenshots/ezra_project_0_13_0_night_mode.png "Ezra Project 0.13.0 Night Mode")
 
-## Tagged verse lists
+### Tagged verse lists
 
 ![Ezra Project 0.13.0 Tagged Verse List](https://raw.githubusercontent.com/tobias-klein/ezra-project/master/screenshots/ezra_project_0_13_0_tagged_verse_list.png "Ezra Project 0.13.0 Tagged Verse List")
 
-## Visualization of search results
+### Visualization of search results
 
 ![Ezra Project 0.13.0 Search Results](https://raw.githubusercontent.com/tobias-klein/ezra-project/master/screenshots/ezra_project_0_13_0_search_results.png "Ezra Project 0.13.0 Search Results")
 
-## Installation assistant
+### Installation assistant
 
 ![Ezra Project 0.13.0 Installation Assistant](https://raw.githubusercontent.com/tobias-klein/ezra-project/master/screenshots/ezra_project_0_13_0_install_assistant.png "Ezra Project 0.13.0 Install Assistant")
 
-## Vertical mode on Surface Go tablet
+### Vertical mode on Surface Go tablet
 
 <img src="https://raw.githubusercontent.com/tobias-klein/ezra-project/master/screenshots/ezra_project_0_13_0_surface_go.jpg" alt="Ezra Project 0.13.0 on Surface Go" width="500"/>
 

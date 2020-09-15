@@ -1,3 +1,10 @@
+<p align="center">
+  <a href="#usage--howto--screenshots">Usage</a> •
+  <a href="#features">Features</a> •
+  <a href="#upcoming-features">Upcoming Features</a> •
+  <a href="#installation">Installation</a> •
+</p>
+
 *"For Ezra had set his heart to study the Law of the LORD,<br/>
 and to do it and to teach his statutes and rules in Israel."* Ezra 7:10
 
@@ -5,6 +12,7 @@ Ezra Project is a user-friendly, cross-platform bible study tool focussing on to
 
 ![Ezra Project 0.14.0](https://raw.githubusercontent.com/tobias-klein/ezra-project/master/screenshots/ezra_project_0_14_0_compact.png "Ezra Project 0.14.0")
 
+<a name="usage--howto--screenshots"></a>
 ## Usage / Howto / Screenshots
 
 Watch [this video](https://www.youtube.com/watch?v=b8gScfa0MqM) to understand how to use Ezra Project.
@@ -13,37 +21,51 @@ You can also browse through some screenshots and photos on a separate [gallery p
 
 [gallery]: https://github.com/tobias-klein/ezra-project/blob/master/GALLERY.md
 
+<a name="features"></a>
 ## Features
 
-Ezra Project comes with the following functionality:
-* Bible browsing functionality
+Ezra Project comes with the following functionality.
+
+### Bible browsing functionality
+
   * Bible books are opened entirely and you can scroll through the chapters seemlessly and fast.
   * The text is shown with book introductions, section headers, cross references and foot notes.
   * You can compare the bible translations of the selected verses.
   * Access to all bible translations available from [CrossWire's](http://www.crosswire.org) repositories.
   * Ezra Project uses the local Sword directories as any other Sword frontend.
-* Tagging functionality - topical verse lists
+
+### Tagging functionality - topical verse lists
+
   * Tag within the currently opened book or verse list.
   * Lookup all verses of a tag (show verses in the main browsing window).
   * Lookup all verses of a tag in the context of a book or verse list (show verses in small popup).
   * Export a tagged verse list to a document.
   * Show tag statistics for the currently opened book.
-* Note taking functionality
+
+### Note taking functionality
+
   * Take notes for individual verses.
   * The notes can be formatted using Markdown syntax.
   * The note editor offers syntax highlighting and convenience features for editing Markdown
   (see this [cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)).
-* Search
+
+### Search
+
   * Search within the currently opened book or verse list (`CTRL/CMD + f`).
   * Search within the full bible translation.
   * Search with multiple words, exact phrase or Strong's number.
   * Search results are highlighted.
-* Dictionary
+
+### Dictionary
+
   - Strong's transcriptions/original word are displayed as hint/pop-up above the word when hovering the mouse over the corresponding word while pressing `SHIFT`.
   - Detailed Strong's information is shown on the bottom left in a separate box.
   - Strong's based search with link 'Find all occurrances'.
   - Additional Strong's based dictionaries can be installed. All Strong's related dictionary entries are shown in the dictionary info box.
-* Tabbed user interface
+
+### User interface features
+
+* Tabs
   * Each tab either shows a book, a tagged verse list, cross references or search results.
   * Previously opened tabs are loaded again on program start.
 * Switchable light/dark color theme
@@ -52,6 +74,7 @@ Ezra Project comes with the following functionality:
 * User interface available in the following languages:
   * English, German, Dutch, French
 
+<a name="upcoming-features"></a>
 ## Upcoming Features
 
 Ezra Project is currently on a bi-monthly release schedule. The next release [0.15.0](https://github.com/tobias-klein/ezra-project/projects/2) is planned for October 2020 with the following new features:
@@ -62,6 +85,7 @@ Ezra Project is currently on a bi-monthly release schedule. The next release [0.
 [i94]: https://github.com/tobias-klein/ezra-project/issues/94
 [i95]: https://github.com/tobias-klein/ezra-project/issues/95
 
+<a name="installation"></a>
 ## Installation
 The latest installation packages for Windows, Linux and macOS can be found on [this page][latest]. Specific install instructions are below.
 

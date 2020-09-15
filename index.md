@@ -11,8 +11,7 @@ and to do it and to teach his statutes and rules in Israel."* Ezra 7:10
 
 Ezra Project is a user-friendly, cross-platform bible study tool focussing on topical study based on keywords/tags. This program helps the user to easily create and manage topical verse lists. Ezra Project works with [SWORD bible translation modules](http://www.crosswire.org/sword) and thus enables bible study in many languages. It runs on Windows, Linux and macOS. Click [here](https://github.com/tobias-klein/ezra-project/releases/latest) to get the latest release.
 
-<img alt="Ezra Project 0.14.0" src="https://raw.githubusercontent.com/tobias-klein/ezra-project/master/screenshots/ezra_project_0_14_0_compact.png" style="max-width: 855px;">
-</img>
+<img id="screenshot" alt="Ezra Project 0.14.0" src="https://raw.githubusercontent.com/tobias-klein/ezra-project/master/screenshots/ezra_project_0_14_0_compact.png"/>
 
 <a name="usage--howto--screenshots"></a>
 

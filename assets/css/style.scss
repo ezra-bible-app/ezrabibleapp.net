@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
+#downloads {
+  width: 300px;
+}
+
 .download_link {
   display: block;
   float: right;

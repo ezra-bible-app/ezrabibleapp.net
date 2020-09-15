@@ -1,5 +1,5 @@
 <p id="navigation">
-  <a href="https://www.ezra-project.net">Home</a>
+  <a href="https://ezra-project.net">Home</a>
 </p>
 
 ## Screenshot Gallery

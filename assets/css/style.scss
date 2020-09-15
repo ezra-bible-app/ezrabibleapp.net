@@ -27,3 +27,11 @@
 .mac_download_link:hover {
   background: url(../images/sprite_download_mac.png) no-repeat top;
 }
+
+.linux_download_link {
+  background: url(../images/sprite_download_linux.png) no-repeat bottom;
+}
+
+.linux_download_link:hover {
+  background: url(../images/sprite_download_linux.png) no-repeat top;
+}

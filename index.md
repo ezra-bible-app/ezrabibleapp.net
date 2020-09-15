@@ -2,7 +2,7 @@
   <a href="#usage--howto--screenshots">Usage</a> •
   <a href="#features">Features</a> •
   <a href="#upcoming-features">Upcoming Features</a> •
-  <a href="#installation">Installation</a>
+  <a href="#installation">Installation</a> •
   <a href="#development">Development</a>
 </p>
 

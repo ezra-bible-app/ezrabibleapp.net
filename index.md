@@ -17,9 +17,7 @@ Ezra Project is a user-friendly, cross-platform bible study tool focussing on to
 
 Watch [this video](https://www.youtube.com/watch?v=b8gScfa0MqM) to understand how to use Ezra Project.
 
-You can also browse through some screenshots and photos on a separate [gallery page][gallery].
-
-[gallery]: https://github.com/tobias-klein/ezra-project/blob/master/GALLERY.md
+You can also browse through some screenshots and photos on a separate [gallery page](/gallery).
 
 <a name="features"></a>
 

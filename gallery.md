@@ -1,3 +1,7 @@
+<p id="navigation">
+  <a href="https://www.ezra-project.net">Home</a>
+</p>
+
 ## Screenshot Gallery
 
 This page shows screenshots and photos of how Ezra Project looks for different use cases.

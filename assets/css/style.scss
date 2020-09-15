@@ -19,3 +19,11 @@
 .win_download_link:hover {
   background: url(../images/sprite_download_win.png) no-repeat top;
 }
+
+.mac_download_link {
+  background: url(../images/sprite_download_mac.png) no-repeat bottom;
+}
+
+.mac_download_link:hover {
+  background: url(../images/sprite_download_mac.png) no-repeat top;
+}

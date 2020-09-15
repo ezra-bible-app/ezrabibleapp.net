@@ -1,4 +1,3 @@
-<h1 align="center">Ezra Project</h1>
 <p align="center" style="font-style: italic">
 "For Ezra had set his heart to study the Law of the LORD,<br/>
 and to do it and to teach his statutes and rules in Israel." Ezra 7:10

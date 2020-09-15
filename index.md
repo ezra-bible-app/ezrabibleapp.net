@@ -78,8 +78,6 @@ Ezra Project comes with the following functionality.
 * User interface available in the following languages:
   * English, German, Dutch, French
 
-<a name="upcoming-features"></a>
-
 ## Upcoming Features
 
 Ezra Project is currently on a bi-monthly release schedule. The next release [0.15.0](https://github.com/tobias-klein/ezra-project/projects/2) is planned for October 2020 with the following new features:

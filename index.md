@@ -3,7 +3,7 @@
   <a href="#features">Features</a> •
   <a href="#upcoming-features">Upcoming Features</a> •
   <a href="#installation">Installation</a>
-  <a href="#development">Development/Feedback</a>
+  <a href="#development">Development</a>
 </p>
 
 *"For Ezra had set his heart to study the Law of the LORD,<br/>

@@ -2,10 +2,10 @@ theme: jekyll-theme-slate
 title: Ezra Project
 description: A user-friendly bible study tool for your desktop
 show_downloads: true
+google_analytics: UA-170877550-2
 github:
   repository_url: https://github.com/tobias-klein/ezra-project
   win_url: https://github.com/tobias-klein/ezra-project/releases/download/0.14.0/ezra-project_win32_setup-0.14.0.exe
   mac_url: https://github.com/tobias-klein/ezra-project/releases/download/0.14.0/ezra-project_mac_0.14.0_x64.dmg
   linux_url: https://github.com/tobias-klein/ezra-project/releases/download/0.14.0/ezra-project_ubuntu2004-0.14.0.deb
   owner_name: Tobias Klein
-  google_analytics: UA-170877550-2

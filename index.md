@@ -97,7 +97,7 @@ Install Ezra Project by downloading the DMG file. After opening the DMG file fro
 ### Linux
 Install Ezra Project by downloading a package for your distribution. After installing the package you will find "Ezra Project" in your application menu.
 
-* **Ubuntu 18.04 / 19.04 & Debian 10 & Linux Mint 18/19:** Download the appropriate Debian package attached to the [latest release][latest] and install, e.g.: `sudo dpkg -i ezra-project_ubuntu1904_0.12.0_amd64.deb`.
+* **Ubuntu 18.04 / 19.10 / 20.04 & Debian 10 & Linux Mint 18/19:** Download the appropriate Debian package attached to the [latest release][latest] and install, e.g.: `sudo dpkg -i ezra-project_ubuntu1904_0.12.0_amd64.deb`.
 * **Fedora 29/30/31 & CentOS 8:** Download the appropriate RPM package package attached to the [latest release][latest] and install, e.g.: `sudo dnf localinstall ezra-project_fedora29_0.12.0_x86_64.rpm`.
 * **Arch Linux:** Use your favorite AUR package manager to install *[ezra-project](https://aur.archlinux.org/packages/ezra-project)* (or *[ezra-project-git](https://aur.archlinux.org/packages/ezra-project-git)*), e.g.: `yay -S ezra-project`.
 

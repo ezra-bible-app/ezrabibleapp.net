@@ -86,20 +86,20 @@ Ezra Project is currently on a bi-monthly release schedule. The next release [0.
 <a name="installation"></a>
 
 ## Installation
-The latest installation packages for Windows, Linux and macOS can be found on [this page][latest]. Specific install instructions are below.
+The latest installation packages for Windows, macOS and Linux can be found on [this page][latest]. Specific install instructions are below.
 
 ### Windows
 Install Ezra Project by downloading the installer. The installer can then be executed with one click/double-click. Note that Windows will warn you that the vendor of this package could not be verified (Installer is not signed). However, you can still go ahead and install the application. Once installed, Ezra Project will open automatically and there will be a link available on your Desktop.
+
+### macOS
+Install Ezra Project by downloading the DMG file. After opening the DMG file from Finder you can either just test-run Ezra Project (double-click the icon), or drag-and-drop the icon to the Applications folder to install it. Note, that macOS will warn you that this is an app downloaded from the internet. That message must be acknowledged before you can run the application.
 
 ### Linux
 Install Ezra Project by downloading a package for your distribution. After installing the package you will find "Ezra Project" in your application menu.
 
 * **Ubuntu 18.04 / 19.04 & Debian 10 & Linux Mint 18/19:** Download the appropriate Debian package attached to the [latest release][latest] and install, e.g.: `sudo dpkg -i ezra-project_ubuntu1904_0.12.0_amd64.deb`.
-* **Fedora 29/30/31 & CentOS 8 & OpenSuse 15.1:** Download the appropriate RPM package package attached to the [latest release][latest] and install, e.g.: `sudo dnf localinstall ezra-project_fedora29_0.12.0_x86_64.rpm`.
+* **Fedora 29/30/31 & CentOS 8:** Download the appropriate RPM package package attached to the [latest release][latest] and install, e.g.: `sudo dnf localinstall ezra-project_fedora29_0.12.0_x86_64.rpm`.
 * **Arch Linux:** Use your favorite AUR package manager to install *[ezra-project](https://aur.archlinux.org/packages/ezra-project)* (or *[ezra-project-git](https://aur.archlinux.org/packages/ezra-project-git)*), e.g.: `yay -S ezra-project`.
-
-### macOS
-Install Ezra Project by downloading the DMG file. After opening the DMG file from Finder you can either just test-run Ezra Project (double-click the icon), or drag-and-drop the icon to the Applications folder to install it. Note, that macOS will warn you that this is an app downloaded from the internet. That message must be acknowledged before you can run the application.
 
 [latest]: https://github.com/tobias-klein/ezra-project/releases/latest
 

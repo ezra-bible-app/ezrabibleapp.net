@@ -23,9 +23,9 @@ You can also browse through some screenshots and photos on a separate [gallery p
 
 ## Features
 
-Ezra Project comes with the following functionality.
+Ezra Project comes with the features listed below. An overview of changes per release is available in the [Change Log](https://github.com/tobias-klein/ezra-project/blob/master/CHANGELOG.md). 
 
-### Bible browsing functionality
+### Bible browsing
 
   * Bible books are opened entirely and you can scroll through the chapters seemlessly and fast.
   * The text is shown with book introductions, section headers, cross references and foot notes.
@@ -33,7 +33,7 @@ Ezra Project comes with the following functionality.
   * Access to all bible translations available from [CrossWire's](http://www.crosswire.org) repositories.
   * Ezra Project uses the local Sword directories as any other Sword frontend.
 
-### Tagging functionality - topical verse lists
+### Tagging (topical verse lists)
 
   * Tag within the currently opened book or verse list.
   * Lookup all verses of a tag (show verses in the main browsing window).
@@ -41,7 +41,7 @@ Ezra Project comes with the following functionality.
   * Export a tagged verse list to a document.
   * Show tag statistics for the currently opened book.
 
-### Note taking functionality
+### Note taking
 
   * Take notes for individual verses.
   * The notes can be formatted using Markdown syntax.

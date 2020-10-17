@@ -94,7 +94,7 @@ Install Ezra Project by downloading the installer. The installer can then be exe
 ### macOS
 Install Ezra Project by downloading the DMG file. After opening the DMG file from Finder you can either just test-run Ezra Project (double-click the icon), or drag-and-drop the icon to the Applications folder to install it. Note, that macOS will warn you that this is an app downloaded from the internet. That message must be acknowledged before you can run the application.
 
-Note that the released DMG file has only been tested with the latest macOS release. Builds for older version shall be provided in the future (see issue [119](https://github.com/tobias-klein/ezra-project/issues/119)).
+Note that the released DMG file has only been tested with the latest macOS release. Builds for older versions shall be provided in the future (see issue [119](https://github.com/tobias-klein/ezra-project/issues/119)).
 
 ### Linux
 Install Ezra Project by downloading a package for your distribution. After installing the package you will find "Ezra Project" in your application menu.

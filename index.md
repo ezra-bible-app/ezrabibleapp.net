@@ -1,6 +1,5 @@
 <p id="navigation">
-  <a href="#usage--howto--screenshots">Usage</a> |
-  <a href="#features">Features</a> |
+  <a href="#usage--howto--screenshots">Features</a> |
   <a href="#installation">Installation</a> |
   <a href="#development">Dev.</a>
 </p>
@@ -75,13 +74,12 @@ Ezra Project comes with the features listed below. An overview of changes per re
 
 ## Upcoming Features
 
-Ezra Project is currently on a bi-monthly release schedule. The next release [0.15.0](https://github.com/tobias-klein/ezra-project/projects/3) is planned for October 2020 with the following new features:
+Ezra Project is currently on a bi-monthly release schedule. The next release [0.16.0](https://github.com/tobias-klein/ezra-project/projects/4) is planned for December 2020 with the following changes:
 
-* Chapter and book-level notes ([#94][i94], [#95][i95])
-* Various usability enhancements
+* Notes document export ([#96][i96])
+* Usability enhancements and bugfixes
 
-[i94]: https://github.com/tobias-klein/ezra-project/issues/94
-[i95]: https://github.com/tobias-klein/ezra-project/issues/95
+[i96]: https://github.com/tobias-klein/ezra-project/issues/96
 
 <a name="installation"></a>
 
@@ -89,7 +87,7 @@ Ezra Project is currently on a bi-monthly release schedule. The next release [0.
 The latest installation packages for Windows, macOS and Linux can be found on [this page][latest]. Specific install instructions are below.
 
 ### Windows
-Install Ezra Project by downloading the installer. The installer can then be executed with one click/double-click. Note that Windows will warn you that the vendor of this package could not be verified (Installer is not signed). However, you can still go ahead and install the application. Once installed, Ezra Project will open automatically and there will be a link available on your Desktop.
+Install Ezra Project by downloading the installer. The installer can then be executed with one click/double-click. Note that Windows will warn you that the vendor of this package could not be verified (Installer is not signed). However, you can still go ahead and install the application. Once installed, Ezra Project will open automatically and there will be a link available on your Desktop. Note that Ezra Project requires Windows 10. It does not run on older Windows versions.
 
 ### macOS
 Install Ezra Project by downloading the DMG file. After opening the DMG file from Finder you can either just test-run Ezra Project (double-click the icon), or drag-and-drop the icon to the Applications folder to install it. Note, that macOS will warn you that this is an app downloaded from the internet. That message must be acknowledged before you can run the application. Note that the minimum macOS version required for running Ezra Project is macOS *Yosemite* (10.10).

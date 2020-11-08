@@ -1,7 +1,7 @@
 <p id="navigation">
   <a href="#usage--howto--screenshots">Features</a> |
   <a href="#installation">Installation</a> |
-  <a href="#development">Dev.</a>
+  <a href="#development">Development</a>
 </p>
 
 *"For Ezra had set his heart to study the Law of the LORD, and to do it and to teach his statutes and rules in Israel."* Ezra 7:10

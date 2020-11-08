@@ -1,7 +1,7 @@
 <p id="navigation">
   <a href="#usage--howto--screenshots">Features</a> |
   <a href="#installation">Installation</a> |
-  <a href="#development">Dev.</a>
+  <a href="#development">Dev.</a> |
   <a href="#user--forum">User Forum</a>
 </p>
 

@@ -1,7 +1,8 @@
 <p id="navigation">
   <a href="#usage--howto--screenshots">Features</a> |
   <a href="#installation">Installation</a> |
-  <a href="#development">Development</a>
+  <a href="#development">Dev.</a>
+  <a href="#user--forum">User Forum</a>
 </p>
 
 *"For Ezra had set his heart to study the Law of the LORD, and to do it and to teach his statutes and rules in Israel."* Ezra 7:10
@@ -108,7 +109,7 @@ Install Ezra Project by downloading a package for your distribution. After insta
 ## Development
 Have a look at [Ezra Project's GitHub repository](https://github.com/tobias-klein/ezra-project) to find out more about its development.
 
-## Feedback & Discussion
+## User Forum
 To give feedback and discuss about Ezra Project, feel free to participate in the user forum: [forum.ezra-project.net](https://forum.ezra-project.net)
 
 ## Issues

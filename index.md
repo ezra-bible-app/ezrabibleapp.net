@@ -109,6 +109,8 @@ Install Ezra Project by downloading a package for your distribution. After insta
 ## Development
 Have a look at [Ezra Project's GitHub repository](https://github.com/tobias-klein/ezra-project) to find out more about its development.
 
+<a name="user--forum"></a>
+
 ## User Forum
 To give feedback and discuss about Ezra Project, feel free to participate in the user forum: [forum.ezra-project.net](https://forum.ezra-project.net)
 

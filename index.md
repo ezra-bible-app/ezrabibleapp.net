@@ -108,6 +108,9 @@ Install Ezra Project by downloading a package for your distribution. After insta
 ## Development
 Have a look at [Ezra Project's GitHub repository](https://github.com/tobias-klein/ezra-project) to find out more about its development.
 
-## Feedback
-To give feedback (bug reports, feature requests) please use the Github issue system.
+## Feedback & Discussion
+To give feedback and discuss about Ezra Project, feel free to participate in the user forum: https://forum.ezra-project.net
+
+## Issues
+To file issues (bug reports, feature requests, etc.) please use the Github issue system.
 Click [here](https://github.com/tobias-klein/ezra-project/issues/new) to file a new Issue for Ezra Project.

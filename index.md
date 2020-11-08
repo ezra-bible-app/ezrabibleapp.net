@@ -1,8 +1,8 @@
 <p id="navigation">
   <a href="#usage--howto--screenshots">Features</a> |
   <a href="#installation">Installation</a> |
-  <a href="#development">Dev.</a> |
-  <a href="#user--forum">User Forum</a>
+  <a href="#user--forum">User Forum</a> |
+  <a href="#development">Dev.</a>
 </p>
 
 *"For Ezra had set his heart to study the Law of the LORD, and to do it and to teach his statutes and rules in Israel."* Ezra 7:10
@@ -104,11 +104,6 @@ Install Ezra Project by downloading a package for your distribution. After insta
 
 [latest]: https://github.com/tobias-klein/ezra-project/releases/latest
 
-<a name="development"></a>
-
-## Development
-Have a look at [Ezra Project's GitHub repository](https://github.com/tobias-klein/ezra-project) to find out more about its development.
-
 <a name="user--forum"></a>
 
 ## User Forum
@@ -117,3 +112,8 @@ To give feedback and discuss about Ezra Project feel free to participate in the 
 ## Issues
 To file issues (bug reports, feature requests, etc.) please use the Github issue system.
 Click [here](https://github.com/tobias-klein/ezra-project/issues/new) to file a new Issue for Ezra Project.
+
+<a name="development"></a>
+
+## Development
+Have a look at [Ezra Project's GitHub repository](https://github.com/tobias-klein/ezra-project) to find out more about its development.

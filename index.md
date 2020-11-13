@@ -19,7 +19,7 @@ Watch [this video](https://www.youtube.com/watch?v=b8gScfa0MqM) to understand ho
 
 You can also browse through some screenshots and photos on a separate [gallery page](/gallery).
 
-If you have specific questions on how to use Ezra Project, feel free to participate in the user forum: [forum.ezra-project.net](https://forum.ezra-project.net)
+If you have specific questions on how to use Ezra Project, feel free to participate in the [user forum](https://forum.ezra-project.net).
 
 <a name="features"></a>
 

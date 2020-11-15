@@ -4,9 +4,9 @@ description: A user-friendly bible study tool for your desktop
 show_downloads: true
 google_analytics: UA-170877550-2
 github:
-  repository_url: https://github.com/tobias-klein/ezra-project
-  win_url: https://github.com/tobias-klein/ezra-project/releases/download/0.15.0/ezra-project_win32_setup-0.15.0.exe
-  mac_url: https://github.com/tobias-klein/ezra-project/releases/download/0.15.0/ezra-project_mac_0.15.0_x64.dmg
-  ubuntu_url: https://github.com/tobias-klein/ezra-project/releases/download/0.15.0/ezra-project_ubuntu2004-0.15.0.deb
-  fedora_url: https://github.com/tobias-klein/ezra-project/releases/download/0.15.0/ezra-project_fedora31-0.15.0.rpm
+  repository_url: https://github.com/ezra-project/ezra-project
+  win_url: https://github.com/ezra-project/ezra-project/releases/download/0.15.0/ezra-project_win32_setup-0.15.0.exe
+  mac_url: https://github.com/ezra-project/ezra-project/releases/download/0.15.0/ezra-project_mac_0.15.0_x64.dmg
+  ubuntu_url: https://github.com/ezra-project/ezra-project/releases/download/0.15.0/ezra-project_ubuntu2004-0.15.0.deb
+  fedora_url: https://github.com/ezra-project/ezra-project/releases/download/0.15.0/ezra-project_fedora31-0.15.0.rpm
   owner_name: Tobias Klein

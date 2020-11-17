@@ -7,7 +7,7 @@
 
 *"For Ezra had set his heart to study the Law of the LORD, and to do it and to teach his statutes and rules in Israel."* Ezra 7:10
 
-Ezra Project is a user-friendly bible study tool focussing on topical study based on keywords/tags. This program can help you to easily manage your topical verse lists and verse-based notes. Ezra Project works with [SWORD bible translation modules](http://www.crosswire.org/sword) and thus enables bible study in many languages. It runs on Windows, macOS and Linux and the user interface has been localized to English, German, French and Dutch. Click [here](https://github.com/ezra-project/ezra-project/releases/latest) to get the latest release.
+Ezra Project is a user-friendly Bible study tool focussing on topical study based on keywords/tags. This program can help you to easily manage your topical verse lists and verse-based notes. Ezra Project works with [SWORD Bible translation modules](http://www.crosswire.org/sword) and thus enables Bible study in many languages. It runs on Windows, macOS and Linux and the user interface has been localized to English, German, French and Dutch. Click [here](https://github.com/ezra-project/ezra-project/releases/latest) to get the latest release.
 
 <img id="screenshot" alt="Ezra Project 0.14.0" src="/assets/screenshots/ezra_project_0_14_0_compact.png"/>
 
@@ -29,10 +29,10 @@ Ezra Project comes with the features listed below. An overview of changes per re
 
 ### Bible browsing
 
-  * Bible books are opened entirely and you can scroll through the chapters seemlessly and fast.
+  * Bible books are opened entirely and you can scroll through the chapters seamlessly and quickly.
   * The text is shown with book introductions, section headers, cross references and foot notes.
-  * You can compare the bible translations of the selected verses.
-  * Access to all bible translations available from [CrossWire's](http://www.crosswire.org) repositories.
+  * You can compare the Bible translations of the selected verses.
+  * Access to all Bible translations available from [CrossWire's](http://www.crosswire.org) repositories.
   * Ezra Project uses the local Sword directories as any other Sword frontend.
 
 ### Tagging (topical verse lists)
@@ -53,7 +53,7 @@ Ezra Project comes with the features listed below. An overview of changes per re
 ### Search
 
   * Search within the currently opened book or verse list (`CTRL/CMD + f`).
-  * Search within the full bible translation.
+  * Search within the full Bible translation.
   * Search with multiple words, exact phrase or Strong's number.
   * Search results are highlighted.
 

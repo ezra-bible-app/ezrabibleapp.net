@@ -17,7 +17,7 @@ Ezra Project is a user-friendly Bible study tool focussing on topical study base
 		</ul>
 	</div>
 </div>
-<script>$('#rotatingScreenshot').simplebanner();</script>
+<script>$('#rotatingScreenshot').simplebanner({rotateTimeout: 3000});</script>
 
 <a name="usage--howto--screenshots"></a>
 

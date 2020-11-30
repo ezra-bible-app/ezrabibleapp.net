@@ -1,4 +1,4 @@
-.simpleBanner {overflow:hidden;position:relative;width:960px;padding:0 0 6px 0;}
+.simpleBanner {overflow:hidden;position:relative;width:960px;padding:0;}
 .simpleBanner.hiddenArrows .bannerControlsWpr,
 .simpleBanner.hiddenIndicators .bannerIndicators {display:none;}
 

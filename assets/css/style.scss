@@ -39,6 +39,10 @@ img {
   width: 380px;
 }
 
+.mobile #downloads {
+  display: none;
+}
+
 #navigation {
   margin-top: -1.5em;
   font-size: 120%;
@@ -52,11 +56,6 @@ img {
   height:70px;
   text-indent: -5000px;
   overflow: hidden;
-}
-
-
-.mobile .download_link {
-  display: none;
 }
 
 .win_download_link {

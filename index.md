@@ -12,8 +12,12 @@ Ezra Project is a user-friendly Bible study tool focussing on topical study base
 <div id="rotatingScreenshot" class="simpleBanner">
 	<div class="bannerListWpr">
 		<ul class="bannerList">
-			<li class="default"><img alt="Ezra Project" src="/assets/screenshots/ezra_project_0_14_0_compact.png"/></li>
-			<li><img alt="Ezra Project Night Mode" src="/assets/screenshots/ezra_project_night_mode_mac_compact.png"/></li>
+			<li class="default">
+        <img alt="Ezra Project" src="/assets/screenshots/ezra_project_0_14_0_compact.png"/>
+      </li>
+			<li>
+        <img alt="Ezra Project Night Mode" src="/assets/screenshots/ezra_project_night_mode_mac_compact.png"/>
+      </li>
 		</ul>
 	</div>
 </div>

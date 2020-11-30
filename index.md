@@ -80,9 +80,13 @@ Ezra Project comes with the features listed below. An overview of changes per re
 Ezra Project is currently on a bi-monthly release schedule. The next release [0.16.0](https://github.com/tobias-klein/ezra-project/projects/4) is planned for December 2020 with the following changes:
 
 * Notes document export ([#96][i96])
+* Augment book chapter navigation with section headers ([#135][i135])
+* Spanish translation ([#144][i144])
 * Usability enhancements and bugfixes
 
 [i96]: https://github.com/tobias-klein/ezra-project/issues/96
+[i135]: https://github.com/tobias-klein/ezra-project/issues/135
+[i144]: https://github.com/tobias-klein/ezra-project/issues/144
 
 <a name="installation"></a>
 

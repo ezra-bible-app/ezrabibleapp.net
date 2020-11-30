@@ -18,8 +18,12 @@ img {
   width: unset;
 }
 
-.mobile .simpleBanner ul li:not(:first) {
+.mobile .simpleBanner ul li {
   display: none;
+}
+
+.mobile .simpleBanner ul li:first {
+  display: block;
 }
 
 #downloads {

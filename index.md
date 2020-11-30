@@ -7,7 +7,7 @@
 
 *"For Ezra had set his heart to study the Law of the LORD, and to do it and to teach his statutes and rules in Israel."* Ezra 7:10
 
-Ezra Project is a user-friendly bible study tool focussing on topical study based on keywords/tags. This program can help you to easily manage your topical verse lists and verse-based notes. Ezra Project works with [SWORD bible translation modules](http://www.crosswire.org/sword) and thus enables bible study in many languages. It runs on Windows, macOS and Linux and the user interface has been localized to English, German, French and Dutch. Click [here](https://github.com/tobias-klein/ezra-project/releases/latest) to get the latest release.
+Ezra Project is a user-friendly Bible study tool focussing on topical study based on keywords/tags. This program can help you to easily manage your topical verse lists and verse-based notes. Ezra Project works with [SWORD Bible translation modules](http://www.crosswire.org/sword) and thus enables Bible study in many languages. It runs on Windows, macOS and Linux and the user interface has been localized to English, German, French and Dutch. Click [here](https://github.com/ezra-project/ezra-project/releases/latest) to get the latest release.
 
 <img id="screenshot" alt="Ezra Project 0.14.0" src="/assets/screenshots/ezra_project_0_14_0_compact.png"/>
 
@@ -25,14 +25,14 @@ If you have specific questions on how to use Ezra Project, feel free to particip
 
 ## Features
 
-Ezra Project comes with the features listed below. An overview of changes per release is available in the [Change Log](https://github.com/tobias-klein/ezra-project/blob/master/CHANGELOG.md). 
+Ezra Project comes with the features listed below. An overview of changes per release is available in the [Change Log](https://github.com/ezra-project/ezra-project/blob/master/CHANGELOG.md). 
 
 ### Bible browsing
 
-  * Bible books are opened entirely and you can scroll through the chapters seemlessly and fast.
+  * Bible books are opened entirely and you can scroll through the chapters seamlessly and quickly.
   * The text is shown with book introductions, section headers, cross references and foot notes.
-  * You can compare the bible translations of the selected verses.
-  * Access to all bible translations available from [CrossWire's](http://www.crosswire.org) repositories.
+  * You can compare the Bible translations of the selected verses.
+  * Access to all Bible translations available from [CrossWire's](http://www.crosswire.org) repositories.
   * Ezra Project uses the local Sword directories as any other Sword frontend.
 
 ### Tagging (topical verse lists)
@@ -53,7 +53,7 @@ Ezra Project comes with the features listed below. An overview of changes per re
 ### Search
 
   * Search within the currently opened book or verse list (`CTRL/CMD + f`).
-  * Search within the full bible translation.
+  * Search within the full Bible translation.
   * Search with multiple words, exact phrase or Strong's number.
   * Search results are highlighted.
 
@@ -77,7 +77,7 @@ Ezra Project comes with the features listed below. An overview of changes per re
 
 ## Upcoming Features
 
-Ezra Project is currently on a bi-monthly release schedule. The next release [0.16.0](https://github.com/tobias-klein/ezra-project/projects/4) is planned for December 2020 with the following changes:
+Ezra Project is currently on a bi-monthly release schedule. The next release [0.16.0](https://github.com/ezra-project/ezra-project/projects/4) is planned for December 2020 with the following changes:
 
 * Notes document export ([#96][i96])
 * Augment book chapter navigation with section headers ([#135][i135])
@@ -87,6 +87,7 @@ Ezra Project is currently on a bi-monthly release schedule. The next release [0.
 [i96]: https://github.com/tobias-klein/ezra-project/issues/96
 [i135]: https://github.com/tobias-klein/ezra-project/issues/135
 [i144]: https://github.com/tobias-klein/ezra-project/issues/144
+[i96]: https://github.com/ezra-project/ezra-project/issues/96
 
 <a name="installation"></a>
 
@@ -104,11 +105,11 @@ Install Ezra Project by downloading the <a href="{{ site.github.mac_url }}">DMG 
 ### Linux
 Install Ezra Project by downloading a package for your distribution. After installing the package you will find "Ezra Project" in your application menu.
 
-* **Ubuntu 18.04 / 19.10 / 20.04 & Debian 10 & Linux Mint 18/19:** Download the appropriate Debian package attached to the [latest release][latest] and install, e.g.: `sudo dpkg -i ezra-project_ubuntu1904_0.15.0_amd64.deb`.
-* **Fedora 29/30/31 & CentOS 8:** Download the appropriate RPM package package attached to the [latest release][latest] and install, e.g.: `sudo dnf localinstall ezra-project_fedora29_0.15.0_x86_64.rpm`.
+* **Ubuntu 18.04 / 19.10 / 20.04 & Debian 10 & Linux Mint 18/19/20:** Download the appropriate Debian package attached to the [latest release][latest] and install, e.g.: `sudo dpkg -i ezra-project_ubuntu1904_0.15.0_amd64.deb`. (Ubuntu 20.04 package also works on Linux Mint 20)
+* **Fedora 29/31/33 & CentOS 8:** Download the appropriate RPM package package attached to the [latest release][latest] and install, e.g.: `sudo dnf localinstall ezra-project_fedora29_0.15.0_x86_64.rpm`.
 * **Arch Linux:** Use your favorite AUR package manager to install *[ezra-project](https://aur.archlinux.org/packages/ezra-project)* (or *[ezra-project-git](https://aur.archlinux.org/packages/ezra-project-git)*), e.g.: `yay -S ezra-project`.
 
-[latest]: https://github.com/tobias-klein/ezra-project/releases/latest
+[latest]: https://github.com/ezra-project/ezra-project/releases/latest
 
 <a name="user--forum"></a>
 
@@ -117,9 +118,9 @@ To give feedback and discuss about Ezra Project feel free to participate in the 
 
 ## Issues
 To file issues (bug reports, feature requests, etc.) please use the Github issue system.
-Click [here](https://github.com/tobias-klein/ezra-project/issues/new) to file a new Issue for Ezra Project.
+Click [here](https://github.com/ezra-project/ezra-project/issues/new) to file a new Issue for Ezra Project.
 
 <a name="development"></a>
 
 ## Development
-Have a look at [Ezra Project's GitHub repository](https://github.com/tobias-klein/ezra-project) to find out more about its development.
+Have a look at [Ezra Project's GitHub repository](https://github.com/ezra-project/ezra-project) to find out more about its development.

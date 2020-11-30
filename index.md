@@ -22,7 +22,7 @@ var isMobile = navigator.userAgent.match(/(iPad)|(iPhone)|(iPod)|(android)|(webO
 if (isMobile) {
   document.body.classList.add('mobile');
 } else { 
-  $('#rotatingScreenshot').simplebanner({rotateTimeout: 3000});
+  $('#rotatingScreenshot').simplebanner({rotateTimeout: 5000});
 }
 </script>
 

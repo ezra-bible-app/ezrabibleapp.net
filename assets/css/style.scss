@@ -19,13 +19,13 @@ img {
   width: unset;
 }
 
-/*.mobile .simpleBanner .bannerListWpr ul li {
+.mobile .simpleBanner .bannerListWpr ul li {
   display: none;
 }
 
-.mobile .simpleBanner .bannerListWpr ul li:first-of-type {
-  display: block;
-}*/
+.default {
+  display: unset;
+}
 
 #downloads {
   width: 380px;

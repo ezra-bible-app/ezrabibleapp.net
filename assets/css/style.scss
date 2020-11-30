@@ -54,6 +54,11 @@ img {
   overflow: hidden;
 }
 
+
+.mobile .download_link {
+  display: none;
+}
+
 .win_download_link {
   background: url(../images/sprite_download_win.png) no-repeat bottom;
 }

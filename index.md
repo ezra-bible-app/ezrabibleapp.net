@@ -9,7 +9,18 @@
 
 Ezra Project is a user-friendly Bible study tool focussing on topical study based on keywords/tags. This program can help you to easily manage your topical verse lists and verse-based notes. Ezra Project works with [SWORD Bible translation modules](http://www.crosswire.org/sword) and thus enables Bible study in many languages. It runs on Windows, macOS and Linux and the user interface has been localized to English, German, French and Dutch. Click [here](https://github.com/ezra-project/ezra-project/releases/latest) to get the latest release.
 
-<img id="screenshot" alt="Ezra Project 0.14.0" src="/assets/screenshots/ezra_project_0_14_0_compact.png"/>
+<div id="rotatingScreenshot" class="simpleBanner">
+	<div class="bannerListWpr">
+		<ul class="bannerList">
+			<li><img id="screenshot" alt="Ezra Project" src="/assets/screenshots/ezra_project_0_14_0_compact.png"/></li>
+			<li><img id="screenshot" alt="Ezra Project Night Mode" src="/assets/screenshots/ezra_project_0_13_0_night_mode.png"/></li>
+		</ul>
+	</div>
+	<div class="bannerControlsWpr bannerControlsPrev"><div class="bannerControls"></div></div>
+	<div class="bannerIndicators"><ul></ul></div>
+	<div class="bannerControlsWpr bannerControlsNext"><div class="bannerControls"></div></div>
+</div>
+<script>$('#rotatingScreenshot').simplebanner();</script>
 
 <a name="usage--howto--screenshots"></a>
 

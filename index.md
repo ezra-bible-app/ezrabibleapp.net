@@ -21,6 +21,7 @@ Ezra Project is a user-friendly Bible study tool focussing on topical study base
 		</ul>
 	</div>
 </div>
+
 <script>
 var isMobile = navigator.userAgent.match(/(iPad)|(iPhone)|(iPod)|(android)|(webOS)/i);
 if (isMobile) {

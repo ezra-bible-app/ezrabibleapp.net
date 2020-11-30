@@ -14,6 +14,14 @@ img {
   border: 0;
 }
 
+.mobile .simpleBanner .bannerListWpr ul {
+  width: unset;
+}
+
+.mobile .simpleBanner ul li:not(:first) {
+  display: none;
+}
+
 #downloads {
   width: 380px;
 }

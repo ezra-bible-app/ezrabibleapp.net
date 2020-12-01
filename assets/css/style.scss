@@ -39,7 +39,8 @@ img {
   width: 380px;
 }
 
-.mobile #downloads {
+/* Do not show downloads on mobile clients or on subpages */
+.mobile #downloads, .subpage #downloads {
   display: none;
 }
 

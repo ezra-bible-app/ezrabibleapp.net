@@ -6,4 +6,8 @@ function init() {
   } else { 
     $('#rotatingScreenshot').simplebanner({rotateTimeout: 4997});
   }
+
+  if (window.location.pathname != "/") {
+    document.body.classList.add('subpage');
+  }
 }

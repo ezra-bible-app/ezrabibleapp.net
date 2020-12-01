@@ -5,6 +5,8 @@
 ## Installation
 The latest installation packages for Windows, macOS and Linux can be found on [this page][latest].
 
+[latest]: https://github.com/ezra-project/ezra-project/releases/latest
+
 ### Windows
 Install Ezra Project by downloading the <a href="{{ site.github.win_url }}">installer</a>. The installer can then be executed with one click/double-click. Note that Windows will warn you that the vendor of this package could not be verified (Installer is not signed). However, you can still go ahead and install the application. Once installed, Ezra Project will open automatically and there will be a link available on your Desktop.
 

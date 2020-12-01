@@ -41,7 +41,7 @@ Ezra Project comes with the following features:
 * Bible browsing with access to all translations from [CrossWire's](http://www.crosswire.org) repositories 
 * Tagging (topical verse lists)
 * Note taking (for verses and Bible books)
-* Search on Bible modules and in the currently opened Bible browsing window
+* Search in Bible modules and in the currently opened Bible browsing window
 * Strongs Dictionary support
 * User-friendly interface with tabbing, switchable light/dark color theme and localizations for English, German, Dutch, French
 

@@ -22,15 +22,6 @@ Ezra Project is a user-friendly Bible study tool focussing on topical study base
 	</div>
 </div>
 
-<script>
-var isMobile = navigator.userAgent.match(/(iPad)|(iPhone)|(iPod)|(android)|(webOS)/i);
-if (isMobile) {
-  document.body.classList.add('mobile');
-} else { 
-  $('#rotatingScreenshot').simplebanner({rotateTimeout: 5000});
-}
-</script>
-
 <a name="usage--howto--screenshots"></a>
 
 ## Usage / Howto / Screenshots

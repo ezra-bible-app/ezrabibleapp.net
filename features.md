@@ -1,3 +1,7 @@
+<p id="navigation">
+  <a href="https://ezra-project.net">Home</a>
+</p>
+
 ## Features
 
 Ezra Project comes with the features listed below. An overview of changes per release is available in the [Change Log](https://github.com/ezra-project/ezra-project/blob/master/CHANGELOG.md). 

@@ -43,7 +43,9 @@ Ezra Project comes with the following features:
 * Note taking (for verses and Bible books)
 * Search in Bible modules and in the currently opened Bible browsing window
 * Strongs Dictionary support
-* User-friendly interface with tabbing, switchable light/dark color theme and localizations for English, German, Dutch, French
+* User-friendly interface with tabs
+* Switchable light/dark color theme
+* Localizations for English, German, Dutch, French
 
 A detailed list of features can be found [on a separate page](/features).
 

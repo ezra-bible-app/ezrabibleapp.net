@@ -53,12 +53,13 @@ An overview of changes per release is available in the [Change Log](https://gith
 
 Ezra Project is currently on a bi-monthly release schedule. The next release [0.16.0](https://github.com/ezra-project/ezra-project/projects/4) is planned for December 2020 with the following changes:
 
-* Notes document export ([#96][i96])
 * Augment book chapter navigation with section headers ([#135][i135])
 * Spanish translation ([#144][i144])
+* Slovakian translation ([#128][i128])
+* Packages for OpenSuse Leap 15.2 and Fedora 33
 * Usability enhancements and bugfixes
 
-[i96]: https://github.com/tobias-klein/ezra-project/issues/96
+[i128]: https://github.com/tobias-klein/ezra-project/issues/128
 [i135]: https://github.com/tobias-klein/ezra-project/issues/135
 [i144]: https://github.com/tobias-klein/ezra-project/issues/144
 [i96]: https://github.com/ezra-project/ezra-project/issues/96

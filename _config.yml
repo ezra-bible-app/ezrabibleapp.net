@@ -7,7 +7,7 @@ github:
   repository_url: https://github.com/ezra-project/ezra-project
   owner_url: https://github.com/tobias-klein
   win_url: https://github.com/ezra-project/ezra-project/releases/download/0.17.0/ezra-project_win32_setup-0.17.0.exe
-  mac_url: https://github.com/ezra-project/ezra-project/releases/download/0.17.0/ezra-project_mac_0.17.0_x64.dmg
+  mac_url: https://github.com/ezra-project/ezra-project/releases/download/0.17.0/ezra-project_mac_0.17.1_x64.dmg
   ubuntu_url: https://github.com/ezra-project/ezra-project/releases/download/0.17.0/ezra-project_ubuntu2004-0.17.0.deb
   fedora_url: https://github.com/ezra-project/ezra-project/releases/download/0.17.0/ezra-project_fedora33-0.17.0.rpm
   owner_name: Tobias Klein

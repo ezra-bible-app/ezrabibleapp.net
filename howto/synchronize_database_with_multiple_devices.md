@@ -28,7 +28,10 @@ Open the configuration file `config.json` in a text editor and add a line like t
 
 `"customDatabaseDir": "/Users/tobi/Dropbox",`
 
-Note that the exact path may be different based on your platform (Windows, macOS, Linux, Android).
+**Important**:
+
+* Note that the exact path may be different based on your platform (Windows, macOS, Linux, Android).
+* On Windows you have to use double `\\` like this: `C:\\Users\\tobi\\Dropbox`. Alternatively it also works with `/` characters.
 
 After making the adjustment your configuration file should like like this (important part is the customDatabaseDir):
 

@@ -67,4 +67,4 @@ You can verify this by checking the info dialog once more:
 
 From now on, changes to the database should be picked up by your synchronization service and automatically synced to all other devices where you have installed that synchronization service. If you then make this Ezra Project configuration adjustment on all your devices you can seemlessly switch back and forth between your devices and always work with the same database!
 
-Important: Whenever you switch devices, ensure that the database file has been synced successfully. You need to re-start Ezra Project on the device that has received a new synced database file, so that the app picks up the freshly synced database.
+Important: Whenever you switch devices, ensure that the database file has been synced successfully. You need to re-start Ezra Project on the device that has received a new synced database file, so that the app picks up the freshly synced database. In case you run into a sync conflict you need to resolve that manually in your filesystem (Services like Dropbox will detect the conflict and create a "conflicted copy of the database file") and restart Ezra Project afterwards.

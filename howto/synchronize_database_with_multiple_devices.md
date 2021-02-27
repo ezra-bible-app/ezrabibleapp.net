@@ -57,7 +57,7 @@ After making the adjustment your configuration file should like like this (impor
       "showHeaderNavigation": false
     }
 
-### Step 4: Start Ezra Project with new configuration
+### Step 4: Start Ezra Project with the new configuration
 
 Now (re)start Ezra Project. It should detect the new custom database configuration and load the database from your synchronization directory.
 

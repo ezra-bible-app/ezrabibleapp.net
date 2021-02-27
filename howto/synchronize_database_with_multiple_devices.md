@@ -4,7 +4,7 @@
 
 ## Synchronizing the database on multiple devices
 
-The Ezra Project database is stored as SQLite database in one file (ezra.sqlite) in the app's user data directory. You can use a service like Dropbox to synchronize the Ezra Project database across multiple devices.
+The Ezra Project database is stored as SQLite database in one file (ezra.sqlite) in the app's user data directory. You can use a service like Dropbox (or Nextcloud or ...) to synchronize the Ezra Project database across multiple devices.
 
 ### Step 1: Find out where your database and configuration are stored
 

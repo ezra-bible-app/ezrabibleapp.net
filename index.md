@@ -57,11 +57,10 @@ An overview of changes per release is available in the [Change Log](https://gith
 
 ## Upcoming Features
 
-Ezra Project is currently on a bi-monthly release schedule. The next release [0.17.0](https://github.com/ezra-project/ezra-project/projects/5) is planned for February 2021 with the following changes:
+Ezra Project is currently on a bi-monthly release schedule. The next release [0.18.0](https://github.com/ezra-project/ezra-project/projects/6) is planned for April 2021 with the following changes:
 
-* Android Tablet Support
-
-[i150]: https://github.com/tobias-klein/ezra-project/issues/150
+* Verse detail view with interlinear mode
+* Small screen layout optimizations (relevant for 7" Android tablets)
 
 <a name="installation"></a>
 

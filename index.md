@@ -9,7 +9,7 @@
 
 Ezra Project is a user-friendly Bible study tool focussing on topical study based on keywords/tags. This program can help you to easily manage your topical verse lists and verse-based notes. Ezra Project works with [SWORD Bible translation modules](http://www.crosswire.org/sword) and thus enables Bible study in many languages. It runs on Windows, macOS and Linux desktop computers, as well as on Android tablets. The user interface has been localized to English, Spanish, German, French, Dutch and Slovakian. Click [here](https://github.com/ezra-project/ezra-project/releases/latest) to download the latest release for your desktop pc or install the [Ezra Project app from the Play Store](https://play.google.com/store/apps/details?id=de.ezraproject.cordova) on your Android tablet.
 
-<div id="rotatingScreenshot" class="simpleBanner">
+<!--<div id="rotatingScreenshot" class="simpleBanner">
 	<div class="bannerListWpr">
 		<ul class="bannerList">
 			<li class="default">
@@ -20,6 +20,9 @@ Ezra Project is a user-friendly Bible study tool focussing on topical study base
       </li>
 		</ul>
 	</div>
+</div>-->
+<div class="demo">
+  <img src="/assets/recordings/0.17.0_demo.gif">
 </div>
 
 <a name="usage--howto--screenshots"></a>

@@ -62,7 +62,8 @@ An overview of changes per release is available in the [Change Log](https://gith
 
 Ezra Project is currently on a bi-monthly release schedule. The next release [0.18.0](https://github.com/ezra-project/ezra-project/projects/6) is planned for April 2021 with the following changes:
 
-* Verse detail view with interlinear mode
+* Adjustable font-size for bible text
+* Icons for buttons and menus
 * Small screen layout optimizations (relevant for 7" Android tablets)
 
 <a name="installation"></a>

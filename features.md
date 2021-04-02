@@ -52,5 +52,5 @@ Ezra Project comes with the features listed below. An overview of changes per re
   * You can easily and quickly switch between a light and a dark color theme.
   * This is configured automatically on macOS based on the system settings.
 * User interface available in the following languages:
-  * English, German, Dutch, French
+  * English, Spanish, German, Dutch, French, Slovakian
 

@@ -76,7 +76,7 @@ The latest installation packages for Windows, macOS and Linux can be found on [G
 <a name="user--forum"></a>
 
 ## User Forum
-To give feedback and discuss about Ezra Bible App feel free to participate in the user forum: [forum.ezra-bible-app.net](https://forum.ezra-project.net)
+To give feedback and discuss about Ezra Bible App feel free to participate in the user forum: [forum.ezrabibleapp.net](https://forum.ezrabibleapp.net)
 
 ## Issues
 To file issues (bug reports, feature requests, etc.) please use the Github issue system.

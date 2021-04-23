@@ -1,10 +1,10 @@
 <p id="navigation">
-  <a href="https://ezra-project.net">Home</a>
+  <a href="https://ezra-bible-app.net">Home</a>
 </p>
 
 ## Features
 
-Ezra Project comes with the features listed below. An overview of changes per release is available in the [Change Log](https://github.com/ezra-project/ezra-project/blob/master/CHANGELOG.md). 
+Ezra Bible App comes with the features listed below. An overview of changes per release is available in the [Change Log](https://github.com/ezra-bible-app/ezra-bible-app/blob/master/CHANGELOG.md). 
 
 ### Bible browsing
 
@@ -12,7 +12,7 @@ Ezra Project comes with the features listed below. An overview of changes per re
   * The text is shown with book introductions, section headers, cross references and foot notes.
   * You can compare the Bible translations of the selected verses.
   * Access to all Bible translations available from [CrossWire's](http://www.crosswire.org) repositories.
-  * Ezra Project uses the local Sword directories as any other Sword frontend.
+  * Ezra Bible App uses the local Sword directories as any other Sword frontend.
 
 ### Tagging (topical verse lists)
 

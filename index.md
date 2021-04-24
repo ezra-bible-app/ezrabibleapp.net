@@ -60,11 +60,7 @@ An overview of changes per release is available in the [Change Log](https://gith
 
 ## Upcoming Features
 
-Ezra Bible App is currently on a bi-monthly release schedule. The next release [0.18.0](https://github.com/ezra-bible-app/ezra-bible-app/projects/6) is planned for April 2021 with the following changes:
-
-* Adjustable font-size for bible text
-* Icons for buttons and menus
-* Small screen layout optimizations (relevant for 7" Android tablets)
+Ezra Bible App is currently on a bi-monthly release schedule. The next release [1.1](https://github.com/ezra-bible-app/ezra-bible-app/projects/7) is planned for June 2021. The feature list is currently under discussion and will be published here once settled.
 
 <a name="installation"></a>
 

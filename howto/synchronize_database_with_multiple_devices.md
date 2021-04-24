@@ -1,5 +1,5 @@
 <p id="navigation">
-  <a href="https://ezra-bible-app.net">Home</a>
+  <a href="https://ezrabibleapp.net">Home</a>
 </p>
 
 ## Synchronizing the database on multiple devices

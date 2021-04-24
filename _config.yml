@@ -7,7 +7,7 @@ github:
   repository_url: https://github.com/ezra-bible-app/ezra-bible-app
   owner_url: https://github.com/tobias-klein
   win_url: https://github.com/ezra-bible-app/ezra-bible-app/releases/download/1.0.0/ezra-bible-app_win32_setup-1.0.0.exe
-  mac_url: https://github.com/ezra-bible-app/ezra-bible-app/releases/download/1.0.0/ezra-bible-app_mac_0.17.1_x64.dmg
+  mac_url: https://github.com/ezra-bible-app/ezra-bible-app/releases/download/1.0.0/ezra-bible-app_mac_1.0.0_x64.dmg
   ubuntu_url: https://github.com/ezra-bible-app/ezra-bible-app/releases/download/1.0.0/ezra-bible-app_ubuntu2004-1.0.0.deb
   fedora_url: https://github.com/ezra-bible-app/ezra-bible-app/releases/download/1.0.0/ezra-bible-app_fedora33-1.0.0.rpm
   owner_name: Tobias Klein

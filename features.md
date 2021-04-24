@@ -1,5 +1,5 @@
 <p id="navigation">
-  <a href="https://ezra-bible-app.net">Home</a>
+  <a href="https://ezrabibleapp.net">Home</a>
 </p>
 
 ## Features
@@ -11,6 +11,7 @@ Ezra Bible App comes with the features listed below. An overview of changes per 
   * Bible books are opened entirely and you can scroll through the chapters seamlessly and quickly.
   * The text is shown with book introductions, section headers, cross references and foot notes.
   * You can compare the Bible translations of the selected verses.
+  * When looking at verse lists (Tagged verse lists, X-Refs or search results) you can load the context of the current verse using a button or a mouseover function.
   * Access to all Bible translations available from [CrossWire's](http://www.crosswire.org) repositories.
   * Ezra Bible App uses the local Sword directories as any other Sword frontend.
 
@@ -21,6 +22,7 @@ Ezra Bible App comes with the features listed below. An overview of changes per 
   * Lookup all verses of a tag in the context of a book or verse list (show verses in small popup).
   * Export a tagged verse list to a document.
   * Show tag statistics for the currently opened book.
+  * The last used tag can be used quickly with a dedicated button.
 
 ### Note taking
 
@@ -28,6 +30,9 @@ Ezra Bible App comes with the features listed below. An overview of changes per 
   * The notes can be formatted using Markdown syntax.
   * The note editor offers syntax highlighting and convenience features for editing Markdown
   (see this [cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)).
+  * The currently edited note can be saved with the shortcut `CTRL/CMD + enter`.
+  * The notes can either be permanently shown in a column or on demand as one individual box when clicking on the notes indicator.
+  * When hovering over the notes indicator, the first part of the notes text is shown.
 
 ### Search
 
@@ -47,10 +52,11 @@ Ezra Bible App comes with the features listed below. An overview of changes per 
 
 * Tabs
   * Each tab either shows a book, a tagged verse list, cross references or search results.
-  * Previously opened tabs are loaded again on program start.
+  * Previously opened tabs are loaded again on program start and the scroll position is also restored.
+  * The font size for the Bible text and tags/notes text can be adjusted. 
 * Switchable light/dark color theme
   * You can easily and quickly switch between a light and a dark color theme.
   * This is configured automatically on macOS based on the system settings.
 * User interface available in the following languages:
-  * English, Spanish, German, Dutch, French, Slovakian
+  * English, Spanish, German, Dutch, French, Slovakian, Ukrainian, Russian
 

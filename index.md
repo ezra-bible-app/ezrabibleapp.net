@@ -22,7 +22,7 @@ Ezra Bible App is a user-friendly Bible study tool focussing on topical study ba
 	</div>
 </div>-->
 <div class="demo">
-  <img src="/assets/recordings/0.17.0_demo.gif">
+  <img src="/assets/recordings/1.0.0_demo.gif">
 </div>
 
 <a name="usage--howto--screenshots"></a>

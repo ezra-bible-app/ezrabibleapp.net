@@ -7,7 +7,7 @@
 
 *"For Ezra had set his heart to study the Law of the LORD, and to do it and to teach his statutes and rules in Israel."* Ezra 7:10
 
-Ezra Bible App is a user-friendly Bible study tool focussing on topical study based on keywords/tags. This program can help you to easily manage your topical verse lists and verse-based notes. Ezra Bible App works with [SWORD Bible translation modules](http://www.crosswire.org/sword) and thus enables Bible study in many languages. It runs on Windows, macOS and Linux desktop computers, as well as on Android tablets. The user interface has been localized to English, Spanish, German, French, Dutch and Slovakian. Click [here](https://github.com/ezra-bible-app/ezra-bible-app/releases/latest) to download the latest release for your desktop pc or install the [Ezra Bible App app from the Play Store](https://play.google.com/store/apps/details?id=de.ezraproject.cordova) on your Android tablet.
+Ezra Bible App is a user-friendly Bible study tool focussing on topical study based on keywords/tags. This program can help you to easily manage your topical verse lists and verse-based notes. Ezra Bible App works with [SWORD Bible translation modules](http://www.crosswire.org/sword) and thus enables Bible study in many languages. It runs on Windows, macOS and Linux desktop computers, as well as on Android tablets. The user interface has been localized to English, Spanish, German, French, Dutch and Slovakian. Click [here](https://github.com/ezra-bible-app/ezra-bible-app/releases/latest) to download the latest release for your desktop pc or install the [Ezra Bible App app from the Play Store](https://play.google.com/store/apps/details?id=net.ezrabibleapp.cordova) on your Android tablet.
 
 <!--<div id="rotatingScreenshot" class="simpleBanner">
 	<div class="bannerListWpr">
@@ -33,7 +33,7 @@ Watch [this video](https://www.youtube.com/watch?v=b8gScfa0MqM) to understand ho
 
 You can also browse through some screenshots and photos on a separate [gallery page](/gallery).
 
-If you have specific questions on how to use Ezra Bible App, feel free to participate in the [user forum](https://forum.ezra-bible-app.net).
+If you have specific questions on how to use Ezra Bible App, feel free to participate in the [user forum](https://forum.ezrabibleapp.net).
 
 Have a look at these howtos for some advanced usecases:
 

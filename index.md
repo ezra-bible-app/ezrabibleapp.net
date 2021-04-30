@@ -7,7 +7,7 @@
 
 *"For Ezra had set his heart to study the Law of the LORD, and to do it and to teach his statutes and rules in Israel."* Ezra 7:10
 
-Ezra Bible App is a user-friendly Bible study tool focussing on topical study based on keywords/tags. This program can help you to easily manage your topical verse lists and verse-based notes. Ezra Bible App works with [SWORD Bible translation modules](http://www.crosswire.org/sword) and thus enables Bible study in many languages. It runs on Windows, macOS and Linux desktop computers, as well as on Android tablets. The user interface has been localized to English, Spanish, German, French, Dutch and Slovakian. Click [here](https://github.com/ezra-bible-app/ezra-bible-app/releases/latest) to download the latest release for your desktop pc or install the [Ezra Bible App app from the Play Store]({{ site.playstore_url }}) on your Android tablet.
+Ezra Bible App is a user-friendly Bible study tool focussing on topical study based on keywords/tags. This program can help you to easily manage your topical verse lists and verse-based notes. Ezra Bible App works with [SWORD Bible translation modules](http://www.crosswire.org/sword) and thus enables Bible study in many languages. It runs on Windows, macOS and Linux desktop computers, as well as on Android tablets. The user interface has been localized to English, Spanish, German, French, Dutch and Slovakian. Click [here]({{ site.github.repository_url }}/releases/latest) to download the latest release for your desktop pc or install the [Ezra Bible App app from the Play Store]({{ site.playstore_url }}) on your Android tablet.
 
 <!--<div id="rotatingScreenshot" class="simpleBanner">
 	<div class="bannerListWpr">
@@ -56,11 +56,11 @@ Ezra Bible App comes with the following features:
 
 A detailed list of features can be found [on a separate page](/features).
 
-An overview of changes per release is available in the [Change Log](https://github.com/ezra-bible-app/ezra-bible-app/blob/master/CHANGELOG.md). 
+An overview of changes per release is available in the [Change Log]({{ site.github.repository_url }}/blob/master/CHANGELOG.md). 
 
 ## Upcoming Features
 
-Ezra Bible App is currently on a bi-monthly release schedule. The next release [1.1](https://github.com/ezra-bible-app/ezra-bible-app/projects/7) is planned for June 2021. Here are some of the most noteworthy upcoming features:
+Ezra Bible App is currently on a bi-monthly release schedule. The next release [1.1]({{ site.github.repository_url }}/projects/7) is planned for June 2021. Here are some of the most noteworthy upcoming features:
 
 * Verse detail view with interlinear mode
 * In-tab search that also works on Android
@@ -73,7 +73,7 @@ Ezra Bible App is currently on a bi-monthly release schedule. The next release [
 ## Installation
 The latest installation packages for Windows, macOS and Linux can be found on [GitHub][latest]. The Android app is available [in the Play Store]({{ site.playstore_url }}). Specific install instructions can be found [on a separate page](/installation).
 
-[latest]: https://github.com/ezra-bible-app/ezra-bible-app/releases/latest
+[latest]: {{ site.github.repository_url }}/releases/latest
 
 <a name="user--forum"></a>
 
@@ -82,9 +82,9 @@ To give feedback and discuss about Ezra Bible App feel free to participate in th
 
 ## Issues
 To file issues (bug reports, feature requests, etc.) please use the Github issue system.
-Click [here](https://github.com/ezra-bible-app/ezra-bible-app/issues/new) to file a new Issue for Ezra Bible App.
+Click [here]({{ site.github.repository_url }}/issues/new) to file a new Issue for Ezra Bible App.
 
 <a name="development"></a>
 
 ## Development
-Have a look at [Ezra Bible App's GitHub repository](https://github.com/ezra-bible-app/ezra-bible-app#development) to find out more about its development.
+Have a look at [Ezra Bible App's GitHub repository]({{ site.github.repository_url }}#development) to find out more about its development.

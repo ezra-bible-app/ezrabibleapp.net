@@ -5,7 +5,7 @@
 ## Installation
 The latest installation packages for Windows, macOS and Linux can be found on [this page][latest].
 
-[latest]: https://github.com/ezra-bible-app/ezra-bible-app/releases/latest
+[latest]: {{ site.github.repository_url }}/releases/latest
 
 ### Windows
 Install Ezra Bible App by downloading the <a href="{{ site.github.win_url }}">installer</a>. The installer can then be executed with one click/double-click. Note that Windows will warn you that the vendor of this package could not be verified (Installer is not signed). However, you can still go ahead and install the application. Once installed, Ezra Bible App will open automatically and there will be a link available on your Desktop.
@@ -22,7 +22,7 @@ Install Ezra Bible App by downloading a package for your distribution. After ins
 * **Fedora 29/31/33 & CentOS 8:** Download the appropriate RPM package package attached to the [latest release][latest] and install, e.g.: `sudo dnf localinstall ezra-bible-app_fedora29_0.16.0_x86_64.rpm`.
 * **Arch Linux:** Use your favorite AUR package manager to install *[ezra-bible-app](https://aur.archlinux.org/packages/ezra-bible-app)* (or *[ezra-bible-app-git](https://aur.archlinux.org/packages/ezra-bible-app-git)*), e.g.: `yay -S ezra-bible-app`.
 
-[latest]: https://github.com/ezra-bible-app/ezra-bible-app/releases/latest
+[latest]: {{ site.github.repository_url }}/releases/latest
 
 ### Android
 Install Ezra Bible App directly [from the Play Store]({{ site.playstore_url }})! Note that the app can only be installed on devices that have at least a 7" screen.

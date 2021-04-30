@@ -4,7 +4,7 @@
 
 ## Features
 
-Ezra Bible App comes with the features listed below. An overview of changes per release is available in the [Change Log](https://github.com/ezra-bible-app/ezra-bible-app/blob/master/CHANGELOG.md). 
+Ezra Bible App comes with the features listed below. An overview of changes per release is available in the [Change Log]({{ site.github.repository_url }}/blob/master/CHANGELOG.md). 
 
 ### Bible browsing
 

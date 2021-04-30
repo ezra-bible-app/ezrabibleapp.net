@@ -3,6 +3,7 @@ title: Ezra Bible App
 description: A user-friendly Bible study tool for your desktop and tablet
 show_downloads: true
 google_analytics: UA-170877550-2
+playstore_url: https://play.google.com/store/apps/details?id=net.ezrabibleapp.cordova
 github:
   repository_url: https://github.com/ezra-bible-app/ezra-bible-app
   owner_url: https://github.com/tobias-klein

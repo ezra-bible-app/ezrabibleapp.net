@@ -24,3 +24,5 @@ Install Ezra Bible App by downloading a package for your distribution. After ins
 
 [latest]: https://github.com/ezra-bible-app/ezra-bible-app/releases/latest
 
+### Android
+Install Ezra Bible App directly [from the Play Store]({{ site.playstore_url }})! Note that the app can only be installed on devices that have at least a 7" screen.

@@ -87,4 +87,4 @@ Click [here](https://github.com/ezra-bible-app/ezra-bible-app/issues/new) to fil
 <a name="development"></a>
 
 ## Development
-Have a look at [Ezra Bible App's GitHub repository]({{ site.github.repository_url }}) to find out more about its development.
+Have a look at [Ezra Bible App's GitHub repository](https://github.com/ezra-bible-app/ezra-bible-app#development) to find out more about its development.

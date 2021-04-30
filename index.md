@@ -60,12 +60,18 @@ An overview of changes per release is available in the [Change Log](https://gith
 
 ## Upcoming Features
 
-Ezra Bible App is currently on a bi-monthly release schedule. The next release [1.1](https://github.com/ezra-bible-app/ezra-bible-app/projects/7) is planned for June 2021. The feature list is currently under discussion and will be published here once settled.
+Ezra Bible App is currently on a bi-monthly release schedule. The next release [1.1](https://github.com/ezra-bible-app/ezra-bible-app/projects/7) is planned for June 2021. Here are some of the most noteworthy upcoming features:
+
+* Verse detail view with interlinear mode
+* In-tab search that also works on Android
+* Emoji picker for text input fields
+* Install assistant: Module upgrade functionality
+* Locale switch functionality
 
 <a name="installation"></a>
 
 ## Installation
-The latest installation packages for Windows, macOS and Linux can be found on [GitHub][latest]. Specific install instructions can be found [on a separate page](/installation).
+The latest installation packages for Windows, macOS and Linux can be found on [GitHub][latest]. The Android app is available [in the Play Store]({{ site.playstore_url }}). Specific install instructions can be found [on a separate page](/installation).
 
 [latest]: https://github.com/ezra-bible-app/ezra-bible-app/releases/latest
 
@@ -81,4 +87,4 @@ Click [here](https://github.com/ezra-bible-app/ezra-bible-app/issues/new) to fil
 <a name="development"></a>
 
 ## Development
-Have a look at [Ezra Bible App's GitHub repository](https://github.com/ezra-bible-app/ezra-bible-app) to find out more about its development.
+Have a look at [Ezra Bible App's GitHub repository]({{ site.github.repository_url }}) to find out more about its development.

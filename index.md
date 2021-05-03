@@ -33,7 +33,7 @@ Watch [this video](https://www.youtube.com/watch?v=b8gScfa0MqM) to understand ho
 
 You can also browse through some screenshots and photos on a separate [gallery page](/gallery).
 
-If you have specific questions on how to use Ezra Bible App, feel free to participate in the [user forum](https://forum.ezrabibleapp.net).
+If you have specific questions on how to use Ezra Bible App, feel free to participate in the [discussions on GitHub]({{ site.github.repository_url }}/discussions).
 
 Have a look at these howtos for some advanced usecases:
 
@@ -78,7 +78,7 @@ The latest installation packages for Windows, macOS and Linux can be found on [G
 <a name="user--forum"></a>
 
 ## User Forum
-To give feedback and discuss about Ezra Bible App feel free to participate in the user forum: [forum.ezrabibleapp.net](https://forum.ezrabibleapp.net)
+To give feedback and discuss about Ezra Bible App feel free to participate in the [discussions on GitHub]({{ site.github.repository_url }}/discussions)
 
 ## Issues
 To file issues (bug reports, feature requests, etc.) please use the Github issue system.

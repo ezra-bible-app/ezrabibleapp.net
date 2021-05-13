@@ -1,7 +1,7 @@
 <p id="navigation">
   <a href="#usage--howto--screenshots">Features</a> |
   <a href="#installation">Installation</a> |
-  <a href="#user--forum">User Forum</a> |
+  <a href="#discussions">Discussions</a> |
   <a href="#development">Dev.</a>
 </p>
 
@@ -75,7 +75,7 @@ The latest installation packages for Windows, macOS and Linux can be found on [G
 
 [latest]: {{ site.github.repository_url }}/releases/latest
 
-<a name="user--forum"></a>
+<a name="discussions"></a>
 
 ## Discussions on GitHub
 To give feedback and discuss about Ezra Bible App feel free to participate in the [discussions on GitHub]({{ site.github.repository_url }}/discussions).

@@ -1,13 +1,13 @@
 <p id="navigation">
   <a href="#usage--howto--screenshots">Features</a> |
   <a href="#installation">Installation</a> |
-  <a href="#user--forum">User Forum</a> |
+  <a href="#discussions">Discussions</a> |
   <a href="#development">Dev.</a>
 </p>
 
 *"For Ezra had set his heart to study the Law of the LORD, and to do it and to teach his statutes and rules in Israel."* Ezra 7:10
 
-Ezra Bible App is a modern and user-friendly Bible study app focussing on topical study based on keywords/tags. This program can help you to easily manage your topical verse lists and verse-based notes. Ezra Bible App works with [SWORD Bible translation modules](http://www.crosswire.org/sword) and thus enables Bible study in many languages. It runs on Windows, macOS and Linux desktop computers, as well as on Android tablets. The user interface has been localized to English, Spanish, German, French, Dutch, Slovakian, Ukrainian and Russian. Click [here]({{ site.github.repository_url }}/releases/latest) to download the latest release for your desktop pc or install the [Ezra Bible App app from the Play Store]({{ site.playstore_url }}) on your Android tablet or Chromebook.
+Ezra Bible App is a user-friendly Bible app focussing on topical study based on keywords/tags. This program can help you to easily manage your topical verse lists and verse-based notes on your desktop or tablet computer. Ezra Bible App works with [SWORD Bible translation modules](http://www.crosswire.org/sword) and thus enables Bible study in many languages. It runs on Windows, macOS and Linux desktop computers, as well as on Android tablets. The user interface has been localized to English, Spanish, German, French, Dutch, Slovakian, Ukrainian and Russian. Click [here]({{ site.github.repository_url }}/releases/latest) to download the latest release for your desktop pc or install the [Ezra Bible App app from the Play Store]({{ site.playstore_url }}) on your Android tablet or Chromebook.
 
 <!--<div id="rotatingScreenshot" class="simpleBanner">
 	<div class="bannerListWpr">
@@ -52,7 +52,7 @@ Ezra Bible App comes with the following features:
 * Strongs Dictionary support
 * User-friendly interface with tabs
 * Switchable light/dark color theme
-* Localizations for English, Spanish, German, Dutch, French, Slovakian
+* Localizations for English, Spanish, German, Dutch, French, Slovakian, Ukrainian, Russian
 
 A detailed list of features can be found [on a separate page](/features).
 
@@ -75,9 +75,9 @@ The latest installation packages for Windows, macOS and Linux can be found on [G
 
 [latest]: {{ site.github.repository_url }}/releases/latest
 
-<a name="user--forum"></a>
+<a name="discussions"></a>
 
-## User Forum
+## Discussions on GitHub
 To give feedback and discuss about Ezra Bible App feel free to participate in the [discussions on GitHub]({{ site.github.repository_url }}/discussions).
 
 ## Issues

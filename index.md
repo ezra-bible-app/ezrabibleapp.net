@@ -65,7 +65,6 @@ Ezra Bible App is currently on a bi-monthly release schedule. The next release [
 * In-tab search that also works on Android
 * Option to open book chapters individually instead of opening the whole book at once (for slower devices)
 * Emoji picker for text input fields
-* Install assistant: Module upgrade functionality
 * Locale switch functionality
 
 <a name="installation"></a>

@@ -60,12 +60,11 @@ An overview of changes per release is available in the [Change Log]({{ site.gith
 
 ## Upcoming Features
 
-Ezra Bible App is currently on a bi-monthly release schedule. The next release [1.1]({{ site.github.repository_url }}/projects/7) is planned for June 2021. Here are some of the most noteworthy upcoming features:
+Ezra Bible App is currently on a bi-monthly release schedule. The next release [1.2]({{ site.github.repository_url }}/projects/8) is planned for August 2021. Here are some of the most noteworthy upcoming features:
 
-* In-tab search that also works on Android
-* Option to open book chapters individually instead of opening the whole book at once (for slower devices)
-* Emoji picker for text input fields
-* Locale switch functionality
+* Verse detail view with interlinear mode
+* Enhanced module install assistant
+* Module upgrade functionality
 
 <a name="installation"></a>
 

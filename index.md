@@ -60,9 +60,10 @@ An overview of changes per release is available in the [Change Log]({{ site.gith
 
 ## Upcoming Features
 
-Ezra Bible App is currently on a bi-monthly release schedule. The next release [1.3]({{ site.github.repository_url }}/projects/9) is planned for October 2021. Here are some of the most noteworthy upcoming features:
+Ezra Bible App is currently on a bi-monthly release schedule. The next release [1.4]({{ site.github.repository_url }}/projects/10) is planned for December 2021. Here are some of the most noteworthy upcoming features:
 
-* Enhanced document export function: Document export of complete Bible chapters or Bible books in combination with the user's notes.
+* tbd (Release planning ongoing)
+
 
 <a name="installation"></a>
 

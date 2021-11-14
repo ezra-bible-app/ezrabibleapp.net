@@ -52,7 +52,8 @@ Ezra Bible App comes with the following features:
 * Strongs Dictionary support
 * User-friendly interface with tabs
 * Switchable light/dark color theme
-* Localizations for English, Spanish, German, Dutch, French, Slovakian, Ukrainian, Russian
+* User data can be synchronized across multiple devices
+* Localizations for English, Spanish, German, Dutch, French, Slovakian, Ukrainian, Russian, Romanian, Brazilian Portuguese
 
 A detailed list of features can be found [on a separate page](/features).
 
@@ -62,8 +63,10 @@ An overview of changes per release is available in the [Change Log]({{ site.gith
 
 Ezra Bible App is currently on a bi-monthly release schedule. The next release [1.4]({{ site.github.repository_url }}/projects/10) is planned for December 2021. Here are some of the most noteworthy upcoming features:
 
-* tbd (Release planning ongoing)
-
+* Enhanced full screen mode with circular verse context menu.
+* Additional buttons for editing notes and copying to clipboard.
+* Search scope parameter (OT/NT) for module search function.
+* CSV export for user data.
 
 <a name="installation"></a>
 

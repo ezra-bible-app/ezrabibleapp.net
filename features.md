@@ -58,5 +58,5 @@ Ezra Bible App comes with the features listed below. An overview of changes per 
   * You can easily and quickly switch between a light and a dark color theme.
   * This is configured automatically on macOS based on the system settings.
 * User interface available in the following languages:
-  * English, Spanish, German, Dutch, French, Slovakian, Ukrainian, Russian
+  * English, Spanish, German, Dutch, French, Slovakian, Ukrainian, Russian, Romanian, Brazilian Portuguese
 

@@ -61,14 +61,9 @@ An overview of changes per release is available in the [Change Log]({{ site.gith
 
 ## Upcoming Features
 
-Ezra Bible App is currently on a bi-monthly release schedule. The next release [1.4]({{ site.github.repository_url }}/projects/10) is planned for December 2021. Here are some of the most noteworthy upcoming features:
+Ezra Bible App is currently on a bi-monthly release schedule. The next release [1.5]({{ site.github.repository_url }}/projects/11) is planned for February 2022. Here are some of the most noteworthy upcoming features:
 
-* Enhanced full screen mode with circular verse context menu.
-* New side buttons for switching tag list and dictionary.
-* Enhanced layout for portrait/tablet mode.
-* Additional buttons for editing notes and copying to clipboard.
-* Search scope parameter (OT/NT) for module search function.
-* CSV export for user data.
+TBD
 
 <a name="installation"></a>
 

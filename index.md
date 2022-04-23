@@ -46,7 +46,7 @@ Have a look at these howtos for some advanced usecases:
 Ezra Bible App comes with the following features:
 
 * Bible browsing with access to all translations from [CrossWire's](http://www.crosswire.org) repositories 
-* Tagging (topical verse lists)
+* Tagging (topical verse lists) with two topical hierarchy levels (tag groups, tags)
 * Note taking (for verses and Bible books)
 * Search in Bible modules and in the currently opened Bible browsing window
 * Strongs Dictionary support
@@ -63,9 +63,9 @@ An overview of changes per release is available in the [Change Log]({{ site.gith
 
 ## Upcoming Features
 
-Ezra Bible App is currently on a bi-monthly release schedule. The next release [1.6]({{ site.github.repository_url }}/projects/12) is planned for April 2022. Here are some of the most noteworthy upcoming features:
+Ezra Bible App is currently on a bi-monthly release schedule. The next release [1.6]({{ site.github.repository_url }}/projects/13) is planned for June 2022. Here are some of the most noteworthy upcoming features:
 
-* Tag groups for categorizing tags and providing additional filter functions
+* [Optimize layout & style for mobile screens](https://github.com/ezra-bible-app/ezra-bible-app/issues/669)
 
 <a name="installation"></a>
 

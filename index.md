@@ -7,7 +7,7 @@
 
 *"For Ezra had set his heart to study the Law of the LORD, and to do it and to teach his statutes and rules in Israel."* Ezra 7:10
 
-Ezra Bible App is a modern and user-friendly Bible app focussing on topical study based on keywords/tags. This program can help you to easily manage your topical verse lists and verse-based notes on your desktop or tablet computer. Ezra Bible App works with [SWORD Bible translation modules](http://www.crosswire.org/sword) and thus enables Bible study in many languages. It runs on Windows, macOS and Linux desktop computers, as well as on Android tablets and Chromebooks. The user interface has been localized to English, Spanish, German, French, Dutch, Romanian, Slovakian, Ukrainian and Russian. Click [here]({{ site.github.repository_url }}/releases/latest) to download the latest release for your desktop pc or install the [app from the Play Store]({{ site.playstore_url }}) on your Android tablet or Chromebook.
+Ezra Bible App is a modern and user-friendly Bible app focussing on topical study based on keywords/tags. This program can help you to easily manage your topical verse lists and verse-based notes on your desktop or tablet computer. Ezra Bible App works with [SWORD Bible translation modules](http://www.crosswire.org/sword) and thus enables Bible study in many languages. It runs on Windows, macOS and Linux desktop computers, as well as on Android devices and Chromebooks. The user interface has been localized to English, Spanish, German, French, Dutch, Brazilian Portuguese, Romanian, Slovakian, Ukrainian and Russian. Click [here]({{ site.github.repository_url }}/releases/latest) to download the latest release for your desktop pc or install the [app from the Play Store]({{ site.playstore_url }}) on your Android device or Chromebook.
 
 <!--<div id="rotatingScreenshot" class="simpleBanner">
 	<div class="bannerListWpr">
@@ -63,9 +63,9 @@ An overview of changes per release is available in the [Change Log]({{ site.gith
 
 ## Upcoming Features
 
-Ezra Bible App is currently on a bi-monthly release schedule. The next release [1.7]({{ site.github.repository_url }}/projects/13) is planned for August 2022. Here are some of the most noteworthy upcoming features:
+Ezra Bible App is currently on a bi-monthly release schedule. The next release [1.8]({{ site.github.repository_url }}/projects/13) is planned for October 2022. Here are some of the most noteworthy upcoming features:
 
-* [Optimize layout & style for mobile screens](https://github.com/ezra-bible-app/ezra-bible-app/issues/669)
+* To do (Release Planning ongoing)
 
 <a name="installation"></a>
 

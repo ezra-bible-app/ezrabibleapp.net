@@ -1,6 +1,6 @@
 theme: jekyll-theme-slate
 title: Ezra Bible App
-description: A modern and user-friendly Bible study app for your desktop and tablet
+description: A modern and user-friendly Bible study app for your desktop, tablet and mobile
 show_downloads: true
 google_analytics: UA-170877550-2
 playstore_url: https://play.google.com/store/apps/details?id=net.ezrabibleapp.cordova

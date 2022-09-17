@@ -65,7 +65,8 @@ An overview of changes per release is available in the [Change Log]({{ site.gith
 
 Ezra Bible App is currently on a bi-monthly release schedule. The next release [1.8]({{ site.github.repository_url }}/projects/13) is planned for October 2022. Here are some of the most noteworthy upcoming features:
 
-* To do (Release Planning ongoing)
+* Integrated Dropbox synchronization of database.
+* Optimizations for mobile UI.
 
 <a name="installation"></a>
 

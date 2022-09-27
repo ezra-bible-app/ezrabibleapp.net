@@ -18,11 +18,11 @@ Install Ezra Bible App by downloading the <a href="{{ site.github.mac_url }}">DM
 ### Linux
 Install Ezra Bible App by downloading a package for your distribution. After installing the package you will find "Ezra Bible App" in your application menu.
 
-* **Ubuntu 18.04 / 19.10 / 20.04 & Debian 10 & Linux Mint 18/19/20:** Download the appropriate Debian package attached to the [latest release][latest] and install, e.g.: `sudo dpkg -i ezra-bible-app_ubuntu1904_0.16.0_amd64.deb`. (Ubuntu 20.04 package also works on Linux Mint 20)
-* **Fedora 29/31/33 & CentOS 8:** Download the appropriate RPM package package attached to the [latest release][latest] and install, e.g.: `sudo dnf localinstall ezra-bible-app_fedora29_0.16.0_x86_64.rpm`.
+* **Ubuntu & Debian & Linux Mint:** Download the appropriate Debian package attached to the [latest release][latest] and install, e.g.: `sudo dpkg -i ezra-bible-app_ubuntu2204_1.6.2_amd64.deb`. (Ubuntu 20.04 package also works on Linux Mint 20, Ubuntu 22.04 package also works on Linux Mint 21)
+* **Fedora & CentOS & openSUSE:** Download the appropriate RPM package package attached to the [latest release][latest] and install, e.g.: `sudo dnf localinstall ezra-bible-app_fedora33_1.6.2_x86_64.rpm`.
 * **Arch Linux:** Use your favorite AUR package manager to install *[ezra-bible-app](https://aur.archlinux.org/packages/ezra-bible-app)* (or *[ezra-bible-app-git](https://aur.archlinux.org/packages/ezra-bible-app-git)*), e.g.: `yay -S ezra-bible-app`.
 
 [latest]: {{ site.github.repository_url }}/releases/latest
 
-### Android (Tablets and Chromebooks)
-Install Ezra Bible App directly [from the Play Store]({{ site.playstore_url }})! Note that the app can only be installed on devices that have at least a 7" screen.
+### Android
+Install Ezra Bible App directly [from the Play Store]({{ site.playstore_url }})!

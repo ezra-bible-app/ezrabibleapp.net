@@ -20,11 +20,11 @@ This page shows screenshots and photos of how Ezra Bible App looks for different
 
 ### Visualization of search results
 
-![Ezra Bible App 0.13.0 Search Results](/assets/screenshots/ezra_project_0_13_0_search_results.png "Ezra Bible App 0.13.0 Search Results")
+![Ezra Bible App 1.8.0 Search Results](/assets/screenshots/ezra_bible_app_1.8.0_search_results_scaled_down.png "Ezra Bible App 1.8.0 Search Results")
 
 ### Installation assistant
 
-![Ezra Bible App 0.13.0 Installation Assistant](/assets/screenshots/ezra_project_0_13_0_install_assistant.png "Ezra Bible App 0.13.0 Install Assistant")
+![Ezra Bible App 1.8.0 Installation Assistant](/assets/screenshots/ezra_bible_app_1.8.0_install_assistant_scaled_down.png "Ezra Bible App 1.8.0 Installation Assistant")
 
 ### Vertical mode on Surface Go tablet
 

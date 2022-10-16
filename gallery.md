@@ -8,15 +8,15 @@ This page shows screenshots and photos of how Ezra Bible App looks for different
 
 ### Standard layout
 
-![Ezra Bible App 0.11.0](/assets/screenshots/ezra_project_0_11_0.png "Ezra Bible App 0.11.0")
+![Ezra Bible App 1.8.0](/assets/screenshots/ezra_bible_app_1.8.0_scaled_down.png "Ezra Bible App 1.8.0")
 
 ### Compact layout in night mode
 
-![Ezra Bible App 0.13.0 Night Mode](/assets/screenshots/ezra_project_0_13_0_night_mode.png "Ezra Bible App 0.13.0 Night Mode")
+![Ezra Bible App 1.8.0 Night Mode](/assets/screenshots/ezra_bible_app_1.8.0_night_mode_scaled_down.png "Ezra Bible App 1.8.0 Night Mode")
 
 ### Tagged verse lists
 
-![Ezra Bible App 0.13.0 Tagged Verse List](/assets/screenshots/ezra_project_0_13_0_tagged_verse_list.png "Ezra Bible App 0.13.0 Tagged Verse List")
+![Ezra Bible App 1.8.0 Tagged Verse List](/assets/screenshots/ezra_bible_app_1.8.0_tagged_verse_list_scaled_down.png "Ezra Bible App 1.8.0 Tagged Verse List")
 
 ### Visualization of search results
 

@@ -6,11 +6,11 @@
 
 This page shows screenshots and photos of how Ezra Bible App looks for different use cases.
 
-### Standard layout
+### Layout with side panel
 
 ![Ezra Bible App 1.8.0](/assets/screenshots/ezra_bible_app_1.8.0_scaled_down.png "Ezra Bible App 1.8.0")
 
-### Compact layout in night mode
+### Layout without side panel / showing notes / night mode
 
 ![Ezra Bible App 1.8.0 Night Mode](/assets/screenshots/ezra_bible_app_1.8.0_night_mode_scaled_down.png "Ezra Bible App 1.8.0 Night Mode")
 

@@ -60,3 +60,14 @@ Ezra Bible App comes with the features listed below. An overview of changes per 
 * User interface available in the following languages:
   * English, Spanish, German, Dutch, French, Slovakian, Ukrainian, Russian, Romanian, Brazilian Portuguese
 
+### Miscellaneous features
+
+* Dropbox integration
+  * Connect Dropbox via official Dropbox linking mechanism.
+  * Sync database after linking Dropbox account for the first time.
+  * Sync database on startup.
+  * Option to sync database after every change.
+  * Sync database when closing app.
+  * Option to sync database only when WiFi is used.
+  * Sync database when turning on Wifi (only Android).
+  * Show dropbox sync status in small popup each team the sync was performed.

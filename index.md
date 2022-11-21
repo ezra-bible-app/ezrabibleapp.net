@@ -35,10 +35,6 @@ You can also browse through some screenshots and photos on a separate [gallery p
 
 If you have specific questions on how to use Ezra Bible App, feel free to participate in the [discussions on GitHub]({{ site.github.repository_url }}/discussions).
 
-Have a look at these howtos for some advanced usecases:
-
-* [How to synchronize the Ezra Bible App database when using multiple devices](/howto/synchronize_database_with_multiple_devices).
-
 <a name="features"></a>
 
 ## Features

@@ -61,10 +61,7 @@ An overview of changes per release is available in the [Change Log]({{ site.gith
 
 Ezra Bible App is currently on a bi-monthly release schedule. The next release [1.13](https://github.com/orgs/ezra-bible-app/projects/6/views/1) is planned for March 2024. Here are some of the most noteworthy upcoming features:
 
-* Select verses based on pressing SHIFT key.
-* Copy verses to clipboard including formatting.
-* Copy comparison window verses to clipboard.
-* Slovenian translation of the UI.
+* TBD
 
 <a name="installation"></a>
 

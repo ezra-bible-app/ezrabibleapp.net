@@ -10,19 +10,21 @@ Ezra Bible App comes with the features listed below. An overview of changes per 
 
   * Bible books are opened entirely and you can scroll through the chapters seamlessly and quickly.
   * The text is shown with book introductions, section headers, cross references and foot notes.
-  * You can compare the Bible translations of the selected verses.
-  * When looking at verse lists (Tagged verse lists, X-Refs or search results) you can load the context of the current verse using a button or a mouseover function.
+  * You can compare the Bible translations of the selected verses based on a comparison function in the side panel.
+  * When looking at verse lists (Tagged verse lists, X-Refs or search results) you can load the context of the current verse based on a button in the verse context menu.
+  * You can copy the selected verses to the clipboard by pressing `CTRL + c`.
   * Access to all Bible translations available from [CrossWire's](http://www.crosswire.org) repositories.
   * Ezra Bible App uses the local Sword directories as any other Sword frontend.
 
 ### Tagging (topical verse lists)
 
+  * Organize your tags as a flat list or within several tag groups.
   * Tag within the currently opened book or verse list.
   * Lookup all verses of a tag (show verses in the main browsing window).
   * Lookup all verses of a tag in the context of a book or verse list (show verses in small popup).
   * Export a tagged verse list to a document.
-  * Show tag statistics for the currently opened book.
-  * The last used tag can be used quickly with a dedicated button.
+  * Show tag statistics for the currently opened book in the side panel. The tag statistics can be further filtered by selecting a tag group.
+  * The last used tag can be used quickly with a dedicated button in the verse context menu.
 
 ### Note taking
 
@@ -47,6 +49,11 @@ Ezra Bible App comes with the features listed below. An overview of changes per 
   - Detailed Strong's information is shown on the bottom left in a separate box.
   - Strong's based search with link 'Find all occurrances'.
   - Additional Strong's based dictionaries can be installed. All Strong's related dictionary entries are shown in the dictionary info box.
+
+### Bible Commentary
+
+  - Access to all Bible commentaries available from [CrossWire's](http://www.crosswire.org) repositories.
+  - Available Bible commentaries are shown for the currently selected verse in the side panel.
 
 ### User interface features
 

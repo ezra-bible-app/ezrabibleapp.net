@@ -60,9 +60,10 @@ An overview of changes per release is available in the [Change Log]({{ site.gith
 
 ## Upcoming Features
 
-Ezra Bible App is currently on a bi-monthly release schedule. The next release [1.14](https://github.com/orgs/ezra-bible-app/projects/6) is planned for March 2024. Here are some of the most noteworthy upcoming features:
+Ezra Bible App is currently on a bi-monthly release schedule. The next release [1.14](https://github.com/orgs/ezra-bible-app/projects/6) is planned for April 2024. Here are some of the most noteworthy upcoming features:
 
-* TBD
+* Configurable type face
+* Dropbox sync of custom sword module folder
 
 <a name="installation"></a>
 

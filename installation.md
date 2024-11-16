@@ -19,7 +19,7 @@ Install Ezra Bible App by downloading the <a href="{{ site.github.mac_url }}">DM
 Install Ezra Bible App by downloading a package for your distribution. After installing the package you will find "Ezra Bible App" in your application menu.
 
 * **Ubuntu & Debian & Linux Mint:** Download the appropriate Debian package attached to the [latest release][latest] and install, e.g.: `sudo dpkg -i ezra-bible-app_ubuntu2204_1.6.2_amd64.deb`. (Ubuntu 20.04 package also works on Linux Mint 20, Ubuntu 22.04 package also works on Linux Mint 21)
-* **Fedora & CentOS & openSUSE:** Download the appropriate RPM package package attached to the [latest release][latest] and install, e.g.: `sudo dnf localinstall ezra-bible-app_fedora33_1.6.2_x86_64.rpm`.
+* **Fedora & CentOS & openSUSE:** Download the appropriate RPM package package attached to the [latest release][latest] and install, e.g.: `sudo dnf localinstall ezra-bible-app_fedora33_1.6.2_x86_64.rpm`. On OpenSuse the package installation may fail, because the package is not signed. If that is the case, look for a way to ignore the missing package signature.
 * **Arch Linux:** Use your favorite AUR package manager to install *[ezra-bible-app](https://aur.archlinux.org/packages/ezra-bible-app)* (or *[ezra-bible-app-git](https://aur.archlinux.org/packages/ezra-bible-app-git)*), e.g.: `yay -S ezra-bible-app`.
 
 [latest]: {{ site.github.repository_url }}/releases/latest

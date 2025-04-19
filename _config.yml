@@ -7,8 +7,8 @@ playstore_url: https://play.google.com/store/apps/details?id=net.ezrabibleapp.co
 github:
   repository_url: https://github.com/ezra-bible-app/ezra-bible-app
   owner_url: https://github.com/tobias-klein
-  win_url: https://github.com/ezra-bible-app/ezra-bible-app/releases/download/1.16.3/ezra-bible-app_win32_setup-1.16.3.exe
-  mac_url: https://github.com/ezra-bible-app/ezra-bible-app/releases/download/1.16.3/ezra-bible-app_mac_1.16.3_x64.dmg
-  ubuntu_url: https://github.com/ezra-bible-app/ezra-bible-app/releases/download/1.16.3/ezra-bible-app_ubuntu2404-1.16.3.deb
-  fedora_url: https://github.com/ezra-bible-app/ezra-bible-app/releases/download/1.16.3/ezra-bible-app_fedora37-1.16.3.rpm
+  win_url: https://github.com/ezra-bible-app/ezra-bible-app/releases/download/1.17.0/ezra-bible-app_win32_setup-1.17.0.exe
+  mac_url: https://github.com/ezra-bible-app/ezra-bible-app/releases/download/1.17.0/ezra-bible-app_mac_1.17.0_x64.dmg
+  ubuntu_url: https://github.com/ezra-bible-app/ezra-bible-app/releases/download/1.17.0/ezra-bible-app_ubuntu2404-1.17.0.deb
+  fedora_url: https://github.com/ezra-bible-app/ezra-bible-app/releases/download/1.17.0/ezra-bible-app_fedora37-1.17.0.rpm
   owner_name: Tobias Klein

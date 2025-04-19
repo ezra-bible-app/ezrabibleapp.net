@@ -60,7 +60,7 @@ An overview of changes per release is available in the [Change Log]({{ site.gith
 
 ## Upcoming Features
 
-Ezra Bible App is currently on a quarterly release schedule. The next release [1.17](https://github.com/orgs/ezra-bible-app/projects/11) is planned for March 25 2025. Here are some of the most noteworthy upcoming features:
+Ezra Bible App is currently on a quarterly release schedule. The next release [1.18](https://github.com/orgs/ezra-bible-app/projects/13) is planned for June 2025. Here are some of the most noteworthy upcoming features:
 
 * TBD
 

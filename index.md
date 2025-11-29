@@ -37,7 +37,9 @@ If you have specific questions on how to use Ezra Bible App, feel free to partic
 
 <a name="features"></a>
 
-## Features
+## Vision and Features
+
+The vision behind Ezra Bible App is to support the user in creating and organizing content (tagged verse lists, notes, sermon manuscripts) right in the context of the Bible text without the need to create separate files/documents.    
 
 Ezra Bible App comes with the following features:
 
@@ -60,7 +62,7 @@ An overview of changes per release is available in the [Change Log]({{ site.gith
 
 ## Upcoming Features
 
-Ezra Bible App is currently on a quarterly release schedule. The next release [1.18](https://github.com/orgs/ezra-bible-app/projects/13) is planned for June 2025. Here are some of the most noteworthy upcoming features:
+Ezra Bible App is currently on a quarterly release schedule. The next release [1.18](https://github.com/orgs/ezra-bible-app/projects/13) is planned for January 2026. Here are some of the most noteworthy upcoming features:
 
 * Chrome style tab navigation for mobile app
 * Configurable type face for user content

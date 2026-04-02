@@ -62,12 +62,7 @@ An overview of changes per release is available in the [Change Log]({{ site.gith
 
 ## Upcoming Features
 
-The next release [1.19](https://github.com/orgs/ezra-bible-app/projects/14) is planned for March 2025. Here are some of the most noteworthy upcoming features:
-
-* Make list of shown commentaries configurable for commentary side panel
-* Support for iOS
-* Support Apple Silicon builds (ARM64)
-* Various bugfixes
+The next release [1.20](https://github.com/orgs/ezra-bible-app/projects/15) is planned for May 2026. Planning is ongoing.
 
 <a name="installation"></a>
 

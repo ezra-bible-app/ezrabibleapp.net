@@ -50,6 +50,58 @@ img {
   font-weight: bold;
 }
 
+.feature-campaign {
+  margin: 2rem 0 1.5rem;
+  padding: 1.5rem;
+  border: 1px solid #d5dbe3;
+  border-left: 6px solid #2b7a78;
+  background: #f5f8fb;
+  border-radius: 8px;
+}
+
+.feature-campaign h2 {
+  margin: 0 0 0.75rem;
+}
+
+.feature-campaign p:last-child {
+  margin-bottom: 0;
+}
+
+.feature-campaign__eyebrow {
+  margin: 0 0 0.5rem;
+  color: #2b7a78;
+  font-size: 0.85rem;
+  font-weight: bold;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.feature-campaign__cta {
+  font-weight: bold;
+}
+
+.feature-campaign__figure {
+  margin: 0 0 2rem;
+  text-align: center;
+}
+
+.feature-campaign__figure img {
+  max-width: 100%;
+  border: 1px solid #d5dbe3;
+  border-radius: 8px;
+  box-shadow: 0 12px 30px rgba(31, 41, 55, 0.12);
+}
+
+.feature-campaign__figure figcaption {
+  margin-top: 0.75rem;
+  color: #5c6773;
+  font-size: 0.95rem;
+}
+
+.mobile .feature-campaign {
+  padding: 1rem;
+}
+
 .download_link {
   display: block;
   float: right;

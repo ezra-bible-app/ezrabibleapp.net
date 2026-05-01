@@ -9,6 +9,27 @@
 
 Ezra Bible App is a modern and user-friendly Bible app focussing on topical study based on keywords/tags. This program can help you to easily manage your topical verse lists and verse-based notes on your desktop, tablet or mobile. Ezra Bible App works with [SWORD Bible translation modules](http://www.crosswire.org/sword) and thus enables Bible study in many languages. It runs on Windows, macOS and Linux desktop computers, as well as on Android devices and Chromebooks. The user interface has been localized to English, Spanish, German, French, Dutch, Brazilian Portuguese, Romanian, Slovakian, Ukrainian and Russian. Click [here]({{ site.github.repository_url }}/releases/latest) to download the latest release for your desktop pc. For mobile devices, you can install the [app from the Play Store]({{ site.playstore_url }}) on your Android device or Chromebook. Furthermore, you can install the [app from the App Store](https://apps.apple.com/us/app/ezra-bible-app/id6757127895) on your iPhone or iPad.
 
+<div class="feature-campaign">
+  <p class="feature-campaign__eyebrow">Looking for beta testers</p>
+  <h2>Help test automatic commentary and dictionary translation</h2>
+  <p>
+    I am considering a new Ezra Bible App feature that would automatically translate commentary and dictionary content into your chosen user interface language when those resources are not available in your native language.
+  </p>
+  <p>
+    The sample below shows English commentary module content translated into German. The idea is to use Google Cloud Translation, which means this feature would require internet access and access tokens provided through a separate service.
+  </p>
+  <p class="feature-campaign__cta">
+    Would you be interested in this feature and in beta testing it? Please join the <a href="https://github.com/ezra-bible-app/ezra-bible-app/discussions/1379">GitHub discussion about automatic translation beta testing</a>.
+  </p>
+</div>
+
+<figure class="feature-campaign__figure">
+  <img alt="Ezra Bible App commentary panel with English module content automatically translated into German" src="/assets/screenshots/commentary-auto-translation-german.png" />
+  <figcaption>
+    Example: commentary resources in English automatically translated to German in the commentary panel.
+  </figcaption>
+</figure>
+
 <!--<div id="rotatingScreenshot" class="simpleBanner">
 	<div class="bannerListWpr">
 		<ul class="bannerList">
@@ -80,7 +101,7 @@ The latest installation packages for Windows, macOS and Linux can be found on [G
 <a name="discussions"></a>
 
 ## Discussions on GitHub
-To give feedback and discuss about Ezra Bible App feel free to participate in the [discussions on GitHub]({{ site.github.repository_url }}/discussions).
+To give feedback and discuss about Ezra Bible App feel free to participate in the [discussions on GitHub]({{ site.github.repository_url }}/discussions). If you are interested in the proposed automatic translation feature for commentary and dictionary resources, please join the [beta testing discussion](https://github.com/ezra-bible-app/ezra-bible-app/discussions/1379).
 
 ## Issues
 To file issues (bug reports, feature requests, etc.) please use the Github issue system.

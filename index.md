@@ -25,26 +25,28 @@ Ezra Bible App is a modern and user-friendly Bible app focussing on topical stud
   <img src="/assets/recordings/1.0.0_demo.gif">
 </div>
 
-<div class="feature-campaign">
-  <p class="feature-campaign__eyebrow">Looking for beta testers</p>
-  <h2>Help test automatic commentary and dictionary translation</h2>
-  <p>
-    We are considering a new Ezra Bible App feature that would automatically translate commentary and dictionary content into your chosen user interface language when those resources are not available in your native language.
-  </p>
-  <p>
-    The sample below shows English commentary module content translated into German. The idea is to use Google Cloud Translation, which means this feature would require internet access and access tokens provided through a separate service.
-  </p>
-  <p class="feature-campaign__cta">
-    Would you be interested in this feature and in beta testing it? Please join the <a href="https://github.com/ezra-bible-app/ezra-bible-app/discussions/1379">GitHub discussion about automatic translation beta testing</a>.
-  </p>
-</div>
+<div class="feature-campaign-layout">
+  <div class="feature-campaign">
+    <p class="feature-campaign__eyebrow">Looking for beta testers</p>
+    <h2>Help test automatic commentary and dictionary translation</h2>
+    <p>
+      We are considering a new Ezra Bible App feature that would automatically translate commentary and dictionary content into your chosen user interface language when those resources are not available in your native language.
+    </p>
+    <p>
+      The sample below shows English commentary module content translated into German. The idea is to use Google Cloud Translation, which means this feature would require internet access and access tokens provided through a separate service.
+    </p>
+    <p class="feature-campaign__cta">
+      Would you be interested in this feature and in beta testing it? Please join the <a href="https://github.com/ezra-bible-app/ezra-bible-app/discussions/1379">GitHub discussion about automatic translation beta testing</a>.
+    </p>
+  </div>
 
-<figure class="feature-campaign__figure">
-  <img style="width: 400px;" alt="Ezra Bible App commentary panel with English module content automatically translated into German" src="/assets/screenshots/commentary-auto-translation-german.png" />
-  <figcaption>
-    Example: commentary resources in English automatically translated to German in the commentary panel.
-  </figcaption>
-</figure>
+  <figure class="feature-campaign__figure">
+    <img alt="Ezra Bible App commentary panel with English module content automatically translated into German" src="/assets/screenshots/commentary-auto-translation-german.png" />
+    <figcaption>
+      Example: commentary resources in English automatically translated to German in the commentary panel.
+    </figcaption>
+  </figure>
+</div>
 
 <a name="usage--howto--screenshots"></a>
 

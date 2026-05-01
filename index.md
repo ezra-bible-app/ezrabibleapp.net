@@ -9,6 +9,22 @@
 
 Ezra Bible App is a modern and user-friendly Bible app focussing on topical study based on keywords/tags. This program can help you to easily manage your topical verse lists and verse-based notes on your desktop, tablet or mobile. Ezra Bible App works with [SWORD Bible translation modules](http://www.crosswire.org/sword) and thus enables Bible study in many languages. It runs on Windows, macOS and Linux desktop computers, as well as on Android devices and Chromebooks. The user interface has been localized to English, Spanish, German, French, Dutch, Brazilian Portuguese, Romanian, Slovakian, Ukrainian and Russian. Click [here]({{ site.github.repository_url }}/releases/latest) to download the latest release for your desktop pc. For mobile devices, you can install the [app from the Play Store]({{ site.playstore_url }}) on your Android device or Chromebook. Furthermore, you can install the [app from the App Store](https://apps.apple.com/us/app/ezra-bible-app/id6757127895) on your iPhone or iPad.
 
+<!--<div id="rotatingScreenshot" class="simpleBanner">
+	<div class="bannerListWpr">
+		<ul class="bannerList">
+			<li class="default">
+        <img alt="Ezra Bible App" src="/assets/screenshots/ezra_project_0_14_0_compact.png"/>
+      </li>
+			<li>
+        <img alt="Ezra Bible App Night Mode" src="/assets/screenshots/ezra_project_night_mode_mac_compact.png"/>
+      </li>
+		</ul>
+	</div>
+</div>-->
+<div class="demo">
+  <img src="/assets/recordings/1.0.0_demo.gif">
+</div>
+
 <div class="feature-campaign">
   <p class="feature-campaign__eyebrow">Looking for beta testers</p>
   <h2>Help test automatic commentary and dictionary translation</h2>
@@ -29,22 +45,6 @@ Ezra Bible App is a modern and user-friendly Bible app focussing on topical stud
     Example: commentary resources in English automatically translated to German in the commentary panel.
   </figcaption>
 </figure>
-
-<!--<div id="rotatingScreenshot" class="simpleBanner">
-	<div class="bannerListWpr">
-		<ul class="bannerList">
-			<li class="default">
-        <img alt="Ezra Bible App" src="/assets/screenshots/ezra_project_0_14_0_compact.png"/>
-      </li>
-			<li>
-        <img alt="Ezra Bible App Night Mode" src="/assets/screenshots/ezra_project_night_mode_mac_compact.png"/>
-      </li>
-		</ul>
-	</div>
-</div>-->
-<div class="demo">
-  <img src="/assets/recordings/1.0.0_demo.gif">
-</div>
 
 <a name="usage--howto--screenshots"></a>
 

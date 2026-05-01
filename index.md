@@ -90,7 +90,8 @@ The next release [1.20](https://github.com/orgs/ezra-bible-app/projects/15) is p
 Planned features:
 
 * Render morphological info in word study panel.
-* Show number of occurrences per Strong's number in Word Study panel.
+* Show number of occurrences per Strong's number in word study panel.
+* Integrate Vine's Expository Dictionary in word study panel.
 * Allow editing/configuration of additional SWORD repositories.
 
 <a name="installation"></a>

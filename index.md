@@ -40,7 +40,7 @@ Ezra Bible App is a modern and user-friendly Bible app focussing on topical stud
 </div>
 
 <figure class="feature-campaign__figure">
-  <img alt="Ezra Bible App commentary panel with English module content automatically translated into German" src="/assets/screenshots/commentary-auto-translation-german.png" />
+  <img style="width: 400px;" alt="Ezra Bible App commentary panel with English module content automatically translated into German" src="/assets/screenshots/commentary-auto-translation-german.png" />
   <figcaption>
     Example: commentary resources in English automatically translated to German in the commentary panel.
   </figcaption>

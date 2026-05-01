@@ -29,7 +29,7 @@ Ezra Bible App is a modern and user-friendly Bible app focussing on topical stud
   <p class="feature-campaign__eyebrow">Looking for beta testers</p>
   <h2>Help test automatic commentary and dictionary translation</h2>
   <p>
-    I am considering a new Ezra Bible App feature that would automatically translate commentary and dictionary content into your chosen user interface language when those resources are not available in your native language.
+    We are considering a new Ezra Bible App feature that would automatically translate commentary and dictionary content into your chosen user interface language when those resources are not available in your native language.
   </p>
   <p>
     The sample below shows English commentary module content translated into German. The idea is to use Google Cloud Translation, which means this feature would require internet access and access tokens provided through a separate service.

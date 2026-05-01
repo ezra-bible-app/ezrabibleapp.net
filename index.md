@@ -62,7 +62,13 @@ An overview of changes per release is available in the [Change Log]({{ site.gith
 
 ## Upcoming Features
 
-The next release [1.20](https://github.com/orgs/ezra-bible-app/projects/15) is planned for May 2026. Planning is ongoing.
+The next release [1.20](https://github.com/orgs/ezra-bible-app/projects/15) is planned for May 2026.
+
+Planned features:
+
+* Render morphological info in word study panel.
+* Show number of occurrences per Strong's number in Word Study panel.
+* Allow editing/configuration of additional SWORD repositories.
 
 <a name="installation"></a>
 
